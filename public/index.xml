@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Error States</title>
+    <link>https://errorstates.github.io/</link>
+    <description>Recent content on Error States</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jan 2020 21:11:55 -0500</lastBuildDate>
+    
+	<atom:link href="https://errorstates.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://errorstates.github.io/posts/hello-world/</link>
+      <pubDate>Tue, 28 Jan 2020 21:11:55 -0500</pubDate>
+      
+      <guid>https://errorstates.github.io/posts/hello-world/</guid>
+      <description>Hello there. Error States is now live.</description>
+    </item>
+    
+  </channel>
+</rss>
