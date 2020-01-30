@@ -1,0 +1,16 @@
+<article class="summary">
+    <h2 class="summary__title">{{.Title}}</h2>
+    {{ with .Params.Image.Src }}
+        <amp-img class="summary__image"
+            src="{{ . }}"
+            layout="responsive"
+            width="1280"
+            height="720"
+            alt="{{ $.Title }}"></amp-img>
+    {{ end }}
+    <p>{{.Summary}}</p>
+    <a class="button" role="button"
+        href="{{.Permalink}}"
+        data-rel="prefetch"
+        aria-label="{{ i18n "keepReading" }} {{.Title}}">{{ i18n "keepReading" }}</a>
+</article>

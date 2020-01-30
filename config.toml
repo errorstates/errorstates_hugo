@@ -1,0 +1,4 @@
+baseURL = "https://errorstates.github.io/"
+languageCode = "en-us"
+title = "Error States"
+theme = "amperage"
