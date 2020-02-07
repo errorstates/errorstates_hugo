@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Error States</title>
-    <link>https://errorstates.github.io/</link>
-    <description>Recent content on Error States</description>
+    <title>Tag on Error States</title>
+    <link>https://errorstates.github.io/tags/tag/</link>
+    <description>Recent content in Tag on Error States</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Sep 2019 12:33:32 +0200</lastBuildDate>
     
-	<atom:link href="https://errorstates.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://errorstates.github.io/tags/tag/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://errorstates.github.io/posts/on-paying-bills/</guid>
       <description>To Restore or Activate Services&amp;hellip; #spectrum #tv</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://errorstates.github.io/posts/hello-world/</link>
-      <pubDate>Mon, 28 Jan 2008 21:11:55 -0500</pubDate>
-      
-      <guid>https://errorstates.github.io/posts/hello-world/</guid>
-      <description>Hello there. Error States is now live.</description>
     </item>
     
   </channel>

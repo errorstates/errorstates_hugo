@@ -6,15 +6,24 @@
     <description>Recent content in Posts on Error States</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jan 2020 21:11:55 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2019 12:33:32 +0200</lastBuildDate>
     
 	<atom:link href="https://errorstates.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>On Paying Your Bills</title>
+      <link>https://errorstates.github.io/posts/on-paying-bills/</link>
+      <pubDate>Mon, 16 Sep 2019 12:33:32 +0200</pubDate>
+      
+      <guid>https://errorstates.github.io/posts/on-paying-bills/</guid>
+      <description>To Restore or Activate Services&amp;hellip; #spectrum #tv</description>
+    </item>
+    
+    <item>
       <title>Hello World</title>
       <link>https://errorstates.github.io/posts/hello-world/</link>
-      <pubDate>Tue, 28 Jan 2020 21:11:55 -0500</pubDate>
+      <pubDate>Mon, 28 Jan 2008 21:11:55 -0500</pubDate>
       
       <guid>https://errorstates.github.io/posts/hello-world/</guid>
       <description>Hello there. Error States is now live.</description>
