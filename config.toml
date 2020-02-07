@@ -9,7 +9,7 @@ paginate = 10
 # Menu elements
 [[menu.main]]
     identifier = "home"
-    name = "Home"
+    name = "Error States"
     url = "https://errorstates.github.io"
     weight = 10
 [[menu.main]]
