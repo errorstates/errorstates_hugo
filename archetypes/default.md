@@ -1,7 +1,8 @@
 +++
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-draft: true
+title = "{{ replace .Name "-" " " | title }}"
+date = "{{ .Date }}"
+publishdate = ""
+draft = false
 
 description = ""
 
@@ -15,9 +16,14 @@ keywords = []
     elements = []
 
 [author]
-    name = ""
+    name = "Roman"
 
 [image]
-    src = ""
+    src = "/images/_____.jpeg"
 +++
 
+# Head line
+
+!["Image Alt Text"](/images/image.jpg)
+
+Body copy here...

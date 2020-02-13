@@ -20,11 +20,11 @@ keywords = ['amperage', 'test', 'post']
     name = "Roman"
 
 [image]
-    src = "/images/msg.png"
+    src = "/images/msg.jpg"
 +++
 
 # On Paying Your Bills...
 
-!["To Restore or Activate Services"](/images/msg.png)
+!["To Restore or Activate Services"](/images/msg.jpg)
 
 "To Restore or Activate Services"... #spectrum #tv
