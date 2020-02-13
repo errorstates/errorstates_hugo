@@ -1,17 +1,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>https://errorstates.github.io/</loc>
-        <lastmod>2019-09-16T12:33:32+02:00</lastmod>
+        <loc>https://errorstates.github.io/posts/011-user-experience-has-stopped/</loc>
+        <lastmod>2019-11-20T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-        <loc>https://errorstates.github.io/posts/on-paying-bills/</loc>
-        <lastmod>2019-09-16T12:33:32+02:00</lastmod>
+        <loc>https://errorstates.github.io/</loc>
+        <lastmod>2019-11-20T00:00:00+00:00</lastmod>
     </url>
     
     <url>
         <loc>https://errorstates.github.io/posts/</loc>
+        <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.github.io/posts/010-gym-decision/</loc>
+        <lastmod>2019-10-28T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.github.io/posts/001-paying-your-bills/</loc>
         <lastmod>2019-09-16T12:33:32+02:00</lastmod>
     </url>
     
@@ -26,7 +36,7 @@
     </url>
     
     <url>
-        <loc>https://errorstates.github.io/posts/hello-world/</loc>
+        <loc>https://errorstates.github.io/posts/000-hello-world/</loc>
         <lastmod>2008-01-28T21:11:55-05:00</lastmod>
     </url>
     

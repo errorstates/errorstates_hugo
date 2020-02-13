@@ -1,10 +1,10 @@
 {
-  "name": "Amperage example",
-  "short_name": "amperage",
+  "name": "Error States",
+  "short_name": "errorstates",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#333",
-  "description": "An example site for the Amperage theme.",
+  "description": "A chronicle of things going wrong in public.",
   "icons":[{"src":"/icons/android-chrome-192x192.png","sizes":"192x192","type":"image/png"}]
 }

@@ -6,26 +6,46 @@
     <description>Recent content in Posts on Error States</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Sep 2019 12:33:32 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://errorstates.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>011 - User Experience Has Stopped</title>
+      <link>https://errorstates.github.io/posts/011-user-experience-has-stopped/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://errorstates.github.io/posts/011-user-experience-has-stopped/</guid>
+      <description>2019.11.20 I went out to a Chinese restaurant with a friend and their back-of-house online order processing setup was in the middle of the hallway, right across from the bathroom. Small New York restaurants, amiright?
+They had the whole wall covered in different iPads and android tablets. Every company they worked with had a seperate tablet that they needed to manage. My friend &amp;ndash; who had worked at Seamless for a small stretch &amp;ndash; explained that each company tends to send out a free, dedicated (read: locked down) tablet to the restaurants for order processing.</description>
+    </item>
+    
+    <item>
+      <title>010 - Bad Gym Decision</title>
+      <link>https://errorstates.github.io/posts/010-gym-decision/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://errorstates.github.io/posts/010-gym-decision/</guid>
+      <description>2019.11.28 Wifi Problem? Or did the Smart TV go into screensaver mode and accidently unlock a bunch of back-end options? Either way, looks like Gym Decision connected their window-display smart TV to the public Spectrum Wifi and never looked back. The alert has been there for four days now and it&amp;rsquo;s right next to the front door.
+#internet #spectrum #smarttv #chromeos</description>
+    </item>
+    
+    <item>
       <title>On Paying Your Bills</title>
-      <link>https://errorstates.github.io/posts/on-paying-bills/</link>
+      <link>https://errorstates.github.io/posts/001-paying-your-bills/</link>
       <pubDate>Mon, 16 Sep 2019 12:33:32 +0200</pubDate>
       
-      <guid>https://errorstates.github.io/posts/on-paying-bills/</guid>
+      <guid>https://errorstates.github.io/posts/001-paying-your-bills/</guid>
       <description>To Restore or Activate Services&amp;hellip; #spectrum #tv</description>
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>https://errorstates.github.io/posts/hello-world/</link>
+      <link>https://errorstates.github.io/posts/000-hello-world/</link>
       <pubDate>Mon, 28 Jan 2008 21:11:55 -0500</pubDate>
       
-      <guid>https://errorstates.github.io/posts/hello-world/</guid>
+      <guid>https://errorstates.github.io/posts/000-hello-world/</guid>
       <description>Hello there. Error States is now live.</description>
     </item>
     
