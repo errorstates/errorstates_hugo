@@ -64,7 +64,9 @@ Then there's the space. You have to design for a range of elements. If you weath
 
 You have the software failures. A bad file uploaded and distributed that somehow ends up crashing the display. A bad update that causes issues on boot. Malicious activity to force the local LinkNYC down. Something - god knows what - going wrong because... well, because computers. I love how stereotypical some of these are: the blue screen of death. Lines of text streaming sideways down the screen like they're in an audition for The Matrix. These happen as often as hardware bugs.
 
-!["Beneath the Stars - A Broken Screen"](/images/012-20181205_125243_HDR.jpg)
+!["Another broken boot up."](/images/012-IMG_1205.jpg)
+
+!["Another broken boot up, details."](/images/012-IMG_1205-detail.jpg)
 
 All things considered, I don't see too many issues. Maybe 1% or 0.5% of the screens I encounter have anything wrong with them. I'd reckon -- _busy doing some Google-interview-level-math_ -- that at 100 major streets and 11 major avenues, with 2-4 screens per intersection as a baseline, then you probably have 3,300 screens rolled out across midtown and downtown Manhattan (below 59th street). At a failure rate of 0.5% per day, that's still 16 or 17 screens that need fixing daily. 
 
