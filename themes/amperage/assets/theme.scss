@@ -65,6 +65,9 @@ body {
 	display: flex;
 	justify-content: space-between;
 	flex-wrap: wrap;
+	margin: 50px 0px;
+    border-top: 1px solid black;
+    padding-top: 50px;
 }
 
 h1 {
@@ -79,6 +82,9 @@ h3 {
 h4 {
 	font-size: 1.5rem;
 }
+p {
+	font-family: Arial;
+} 
 
 a {
 	color: inherit;
@@ -128,7 +134,7 @@ blockquote {
 	p {
 		color: #555;
 		font-size: 1.25em;
-		font-family: 'Times New Roman', serif;
+		font-family: Courier New;
 	}
 }
 
@@ -293,8 +299,11 @@ blockquote {
 }
 
 .summary {
+	h2 {
+		margin-top: 1.5em;
+	}
 	&:not(:first-of-type) {
-		h2 {
+		img {
 			margin-top: 2.5em;
 		}
 	}
@@ -303,11 +312,14 @@ blockquote {
 	}
 
 	&__title {
-		text-align: center;
+		text-align: left;
 	}
 	.button {
 		display: block;
-		margin: inherit 1em;
+		margin-top: inherit 1em;
+		margin-left: inherit 1em;
+		margin-right: inherit 1em;
+		margin-bottom: inherit 2em;
 	}
 }
 

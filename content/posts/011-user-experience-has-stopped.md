@@ -19,7 +19,7 @@ keywords = []
     name = "Roman"
 
 [image]
-    src = "/images/IMG_0360.jpg"
+    src = "/images/IMG_0360-detail.jpg"
 +++
 
 !["User Experience Has Stopped"](/images/IMG_0360.jpg)
