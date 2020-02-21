@@ -9,13 +9,8 @@ paginate = 10
 # Menu elements
 [[menu.main]]
     identifier = "home"
-    name = "Error States"
+    name = "error states"
     url = "https://errorstates.com"
-    weight = 10
-[[menu.main]]
-    identifier = "Submit"
-    name = "Submit"
-    url = "https://errorstates.com/submit/"
     weight = 10
 
 pygmentsUseClasses = true
@@ -25,7 +20,7 @@ pygmentsUseClasses = true
     tag = "tags"
 
 [params]
-    copyright = "ErrorStates" # Name shown on footer copyright
+    copyright = "error states" # Name shown on footer copyright
     themeColor = "#333" # Theme color displayed on mobile browsers
 
     # Default AMP components for the whole site
