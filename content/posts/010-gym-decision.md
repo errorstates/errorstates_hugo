@@ -9,7 +9,7 @@ description = ""
 
 summary = ""
 
-tags = []
+tags = ["Internet","Spectrum","Smart TV","ChromeOS"]
 
 keywords = []
 
@@ -30,6 +30,4 @@ keywords = []
 # 2019.11.28
 
 Wifi Problem? Or did the Smart TV go into screensaver mode and accidently unlock a bunch of back-end options? Either way, looks like Gym Decision connected their window-display smart TV to the public Spectrum Wifi and never looked back. The alert has been there for four days now and it's right next to the front door.
-
-#internet #spectrum #smarttv #chromeos
 

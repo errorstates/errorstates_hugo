@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TV on Error States</title>
+    <link>https://errorstates.com/tags/tv/</link>
+    <description>Recent content in TV on Error States</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Sep 2019 12:33:32 +0200</lastBuildDate>
+    
+	<atom:link href="https://errorstates.com/tags/tv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>001 - On Paying Your Bills</title>
+      <link>https://errorstates.com/posts/001-paying-your-bills/</link>
+      <pubDate>Mon, 16 Sep 2019 12:33:32 +0200</pubDate>
+      
+      <guid>https://errorstates.com/posts/001-paying-your-bills/</guid>
+      <description>Sometimes the problem is that you&amp;rsquo;ve simply not paid the bills. #spectrum #tv</description>
+    </item>
+    
+  </channel>
+</rss>

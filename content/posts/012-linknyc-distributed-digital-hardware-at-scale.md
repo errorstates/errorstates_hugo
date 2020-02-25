@@ -8,7 +8,7 @@ description = "There are a lot of interesting questions that come up when you ha
 
 summary = "There are a lot of interesting questions that come up when you have to start thinking about how to manage and troubleshoot distributed *physical* digital systems at scale. For example: How do you deal with hardware failures, software failures, the weather, and malicious human interaction? [Continue Reading]"
 
-tags = []
+tags = ["Hardware","Software","Distributed Systems","NYC","Scale","Digitization"]
 
 keywords = []
 
@@ -77,5 +77,3 @@ But more to the point -- when you're running a non-virtualized system at scale a
 So that's kind of it: I suppose the big question driving this blog is the discovery of that knowledge and expertise as we slowly but surely digitize more of our public spaces. Most of the exploration is on the easily-visible public issues, but there's a lot to say about the 99%-invisible-type stuff too. Hope it's as interesting to you as it is to me.
 
 <p style="text-align:center;"><video controls="controls" height="600" name="LinkNYC" src="/images/012-mov.mov"></video></p>
-
-#hardware #software #distributedystems #scale #digitization

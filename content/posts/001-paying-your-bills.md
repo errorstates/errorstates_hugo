@@ -9,9 +9,9 @@ description = "Sometimes the problem is that you've simply not paid the bills. #
 
 summary = "Sometimes the problem is that you've simply not paid the bills. #spectrum #tv"
 
-tags = ['Tag']
+tags = ["Spectrum","TV"]
 
-keywords = ['amperage', 'test', 'post']
+keywords = []
 
 [amp]
     elements = []
@@ -27,4 +27,4 @@ keywords = ['amperage', 'test', 'post']
 
 !["To Restore or Activate Services"](/images/msg.jpg)
 
-Sometimes the problem is that you've simply not paid the bills. "To Restore or Activate Services"... #spectrum #tv
+Sometimes the problem is that you've simply not paid the bills. "To Restore or Activate Services"...

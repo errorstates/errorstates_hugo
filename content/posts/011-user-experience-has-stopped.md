@@ -8,7 +8,7 @@ description = ""
 
 summary = ""
 
-tags = []
+tags = ["Tablet","Screen","Android","User Experience"]
 
 keywords = []
 
@@ -41,5 +41,3 @@ And it's not just the back of the house. I've been in higher-end restaurants and
 Anyway. I thought this error message was brilliant. The app is so generic, it could be anything. I wonder if "UserExperience" is the app itself? Or is it a metacommentary by some bored designer who had to Learn To Code<sup>TM</sup>?
 
 "UserExperience Has Stopped". Yes, yes it has. 
-
-#tablet #screen #android #userexperience
