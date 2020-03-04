@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brand on Error States</title>
+    <link>https://errorstates.com/tags/brand/</link>
+    <description>Recent content in Brand on Error States</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Mar 2020 20:38:41 -0500</lastBuildDate>
+    
+	<atom:link href="https://errorstates.com/tags/brand/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>006 - Maintenance Needed</title>
+      <link>https://errorstates.com/posts/006-maintanence-needed/</link>
+      <pubDate>Tue, 03 Mar 2020 20:38:41 -0500</pubDate>
+      
+      <guid>https://errorstates.com/posts/006-maintanence-needed/</guid>
+      <description>Not quite broken. A cola machine sits around, waiting to be maintained. Someone must have opened it, started to work, and then - inevitable distracted - forgot about it without finishing the work. It was there when the movie started, it was there when the movie ended. The staff walk by, either not caring or not knowing what to do. [Continue Reading]</description>
+    </item>
+    
+  </channel>
+</rss>

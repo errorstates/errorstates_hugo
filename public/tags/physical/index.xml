@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Physical on Error States</title>
+    <link>https://errorstates.com/tags/physical/</link>
+    <description>Recent content in Physical on Error States</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://errorstates.com/tags/physical/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>003 - Elevator Out of Service</title>
+      <link>https://errorstates.com/posts/003-elevator-out-of-service/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://errorstates.com/posts/003-elevator-out-of-service/</guid>
+      <description>Sometimes there isn&amp;rsquo;t much to say in the way of explanation.</description>
+    </item>
+    
+  </channel>
+</rss>

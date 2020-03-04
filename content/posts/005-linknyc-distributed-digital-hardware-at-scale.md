@@ -1,5 +1,5 @@
 +++
-title = "012 - LinkNYC & Distributed Hardware at Scale"
+title = "005 - LinkNYC & Distributed Hardware at Scale"
 date = "2020-02-13T22:15:10-05:00"
 publishdate = "2020-02-13"
 draft = false
@@ -22,7 +22,7 @@ keywords = []
     src = "/images/012-IMG_0849.jpg"
 +++
 
-# 012 - LinkNYC & Distributed Hardware at Scale
+# 005 - LinkNYC & Distributed Hardware at Scale
 
 !["An Audition for The Matrix?"](/images/012-IMG_0849.jpg)
 

@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>012 - LinkNYC &amp; Distributed Hardware at Scale</title>
-      <link>https://errorstates.com/posts/012-linknyc-distributed-digital-hardware-at-scale/</link>
+      <title>005 - LinkNYC &amp; Distributed Hardware at Scale</title>
+      <link>https://errorstates.com/posts/005-linknyc-distributed-digital-hardware-at-scale/</link>
       <pubDate>Thu, 13 Feb 2020 22:15:10 -0500</pubDate>
       
-      <guid>https://errorstates.com/posts/012-linknyc-distributed-digital-hardware-at-scale/</guid>
+      <guid>https://errorstates.com/posts/005-linknyc-distributed-digital-hardware-at-scale/</guid>
       <description>There are a lot of interesting questions that come up when you have to start thinking about how to manage and troubleshoot distributed &lt;em&gt;physical&lt;/em&gt; digital systems at scale. For example: How do you deal with hardware failures, software failures, the weather, and malicious human interaction? [Continue Reading]</description>
     </item>
     

@@ -2,28 +2,25 @@
 title = "{{ replace .Name "-" " " | title }}"
 date = "{{ .Date }}"
 publishdate = ""
-draft = false
+draft = true
 
-description = ""
+description = "This is for google search snippets."
 
-summary = ""
+summary = "This is the preview text. [Continue Reading]"
 
-tags = []
-
-keywords = []
-
-[amp]
-    elements = []
+tags = ["Sample","Two"]
 
 [author]
     name = "Roman"
 
 [image]
-    src = "/images/_____.jpeg"
+    src = "/images/_____.jpg"
 +++
 
 # Head line
 
 !["Image Alt Text"](/images/image.jpg)
+
+## Month 00, Year
 
 Body copy here...

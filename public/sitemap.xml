@@ -1,6 +1,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>https://errorstates.com/posts/006-maintanence-needed/</loc>
+        <lastmod>2020-03-03T20:38:41-05:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/brand/</loc>
+        <lastmod>2020-03-03T20:38:41-05:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/digital-plumbing/</loc>
+        <lastmod>2020-03-03T20:38:41-05:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/</loc>
+        <lastmod>2020-03-03T20:38:41-05:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/hardware/</loc>
+        <lastmod>2020-03-03T20:38:41-05:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/maintenance/</loc>
+        <lastmod>2020-03-03T20:38:41-05:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/posts/</loc>
+        <lastmod>2020-03-03T20:38:41-05:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/</loc>
+        <lastmod>2020-03-03T20:38:41-05:00</lastmod>
+    </url>
+    
+    <url>
         <loc>https://errorstates.com/tags/cloud/</loc>
         <lastmod>2020-02-28T00:00:00+00:00</lastmod>
     </url>
@@ -16,17 +56,7 @@
     </url>
     
     <url>
-        <loc>https://errorstates.com/</loc>
-        <lastmod>2020-02-28T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
         <loc>https://errorstates.com/tags/manufacturing/</loc>
-        <lastmod>2020-02-28T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/posts/</loc>
         <lastmod>2020-02-28T00:00:00+00:00</lastmod>
     </url>
     
@@ -46,12 +76,7 @@
     </url>
     
     <url>
-        <loc>https://errorstates.com/tags/</loc>
-        <lastmod>2020-02-28T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/posts/012-linknyc-distributed-digital-hardware-at-scale/</loc>
+        <loc>https://errorstates.com/posts/005-linknyc-distributed-digital-hardware-at-scale/</loc>
         <lastmod>2020-02-13T22:15:10-05:00</lastmod>
     </url>
     
@@ -62,11 +87,6 @@
     
     <url>
         <loc>https://errorstates.com/tags/distributed-systems/</loc>
-        <lastmod>2020-02-13T22:15:10-05:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/tags/hardware/</loc>
         <lastmod>2020-02-13T22:15:10-05:00</lastmod>
     </url>
     
@@ -86,32 +106,47 @@
     </url>
     
     <url>
-        <loc>https://errorstates.com/posts/011-user-experience-has-stopped/</loc>
-        <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+        <loc>https://errorstates.com/posts/004-user-experience-has-stopped/</loc>
+        <lastmod>2019-12-20T00:00:00+00:00</lastmod>
     </url>
     
     <url>
         <loc>https://errorstates.com/tags/android/</loc>
-        <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+        <lastmod>2019-12-20T00:00:00+00:00</lastmod>
     </url>
     
     <url>
         <loc>https://errorstates.com/tags/screen/</loc>
-        <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+        <lastmod>2019-12-20T00:00:00+00:00</lastmod>
     </url>
     
     <url>
         <loc>https://errorstates.com/tags/tablet/</loc>
-        <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+        <lastmod>2019-12-20T00:00:00+00:00</lastmod>
     </url>
     
     <url>
         <loc>https://errorstates.com/tags/user-experience/</loc>
-        <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+        <lastmod>2019-12-20T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-        <loc>https://errorstates.com/posts/010-gym-decision/</loc>
+        <loc>https://errorstates.com/posts/003-elevator-out-of-service/</loc>
+        <lastmod>2019-12-15T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/broken/</loc>
+        <lastmod>2019-12-15T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/physical/</loc>
+        <lastmod>2019-12-15T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/posts/002-gym-decision/</loc>
         <lastmod>2019-10-28T00:00:00+00:00</lastmod>
     </url>
     

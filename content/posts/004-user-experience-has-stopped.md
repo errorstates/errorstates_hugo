@@ -1,12 +1,12 @@
 +++
-title = "011 - User Experience Has Stopped"
-date = "2019-11-20"
+title = "004 - User Experience Has Stopped"
+date = "2019-12-20"
 publishdate = "2019-11-20"
 draft = false
 
-description = ""
+description = "I went out to a Chinese restaurant with a friend and their back-of-house online order processing setup was in the middle of the hallway, right across from the bathroom. Small New York restaurants, amiright? They had the whole wall covered in different iPads and android tablets. Every company they worked with had a seperate tablet that they needed to manage. My friend -- who had worked at Seamless for a small stretch -- explained that each company tends to send out a free, dedicated (read: locked down) tablet to the restaurants for order processing. "
 
-summary = ""
+summary = "I went out to a Chinese restaurant with a friend and their back-of-house online order processing setup was in the middle of the hallway, right across from the bathroom. Small New York restaurants, amiright? They had the whole wall covered in different iPads and android tablets. Every company they worked with had a seperate tablet that they needed to manage. My friend -- who had worked at Seamless for a small stretch -- explained that each company tends to send out a free, dedicated (read: locked down) tablet to the restaurants for order processing. [Continue Reading] "
 
 tags = ["Tablet","Screen","Android","User Experience"]
 
@@ -22,11 +22,13 @@ keywords = []
     src = "/images/IMG_0360-detail.jpg"
 +++
 
+# 004 - User Experience Has Stopped
+
 !["User Experience Has Stopped"](/images/IMG_0360.jpg)
 
 !["User Experience Has Stopped"](/images/IMG_0360-detail.jpg)
 
-# 2019.11.20
+## November 20, 2019
 
 I went out to a Chinese restaurant with a friend and their back-of-house online order processing setup was in the middle of the hallway, right across from the bathroom. Small New York restaurants, amiright? 
 
