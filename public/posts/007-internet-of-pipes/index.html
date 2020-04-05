@@ -211,7 +211,7 @@
 
 <p>Well now.</p>
 
-<p>Is it fair to call the COVID-19-initiated crisis the biggest error state of our world economy and healthcare system? To soon?</p>
+<p>Is it fair to call the COVID-19-initiated crisis the biggest error state of our world economy and healthcare system? Too soon?</p>
 
 <p>Ok. I&rsquo;ll write about other things, such as the internet. With many more people suddenly working from home, or simply being home without an opportunity to leave, the internet-as-infrastructure grew severely strained at the end of March.</p>
 
@@ -223,7 +223,7 @@
 
 <p>You know the error message is having an error message when it doesn&rsquo;t align with Material Design standards.</p>
 
-<p>One can write an interesting history of the internet through the lens of error messages. For example, Twitter&rsquo;s infamous fail-whale was the perfect metaphor for rapidly growing internet companies in the aughts, when their infrastucture couldn&rsquo;t keep up with how quickly people were joining and using the platform:</p>
+<p>One can write an interesting history of the internet through the lens of error messages. For example, Twitter&rsquo;s infamous fail-whale was the perfect metaphor for rapidly growing internet companies in the aughts, when their infrastructure couldn&rsquo;t keep up with how quickly people were joining and using the platform:</p>
 
 <p><img src="/images/007-twitter-fail-whale.jpg" alt="&quot;The fail whale&quot;" /></p>
 
@@ -235,7 +235,7 @@
 5xx server error – the server failed to fulfil an apparently valid request</code></pre>
 <p>The <code>200</code>, <code>301</code>, <code>404</code>, and <code>500</code> status codes are the ones most people are familiar with (the 200 means your request was fulfilled - if you load in a site, you&rsquo;re logging a <code>200</code> status).</p>
 
-<p>Let&rsquo;s go deeper still, into the wires themselves. Do you remember the memorable instance when a 75 year old lady in the Republic of Georgia was digging for copper and <a href="https://www.bbc.co.uk/news/world-europe-12985082">accidently cut the fiber optic cables that connected neighborhing Armenia from the internet</a>?</p>
+<p>Let&rsquo;s go deeper still, into the wires themselves. Do you remember the memorable instance when a 75 year old lady in the Republic of Georgia was digging for copper and <a href="https://www.bbc.co.uk/news/world-europe-12985082">accidentally cut the fiber optic cables that connected neighboring Armenia from the internet</a>?</p>
 
 <p>Yes, the internet is really <a href="https://www.submarinecablemap.com">just a bunch of wires connecting data centers</a>:</p>
 
@@ -245,11 +245,11 @@
 
 <p>Sometimes it is easy to remember this.</p>
 
-<p>Michael Lewis wrote a fascinating exploration of internet wires and latency while ostencibly talking about high-frequency trading in &ldquo;<a href="https://www.amazon.com/Flash-Boys-Wall-Street-Revolt/dp/0393351599">Flash Boys</a>&rdquo;. When your arbitrage depends on acting on information received seconds or milliseconds faster than others, the length and bandwidth of those internet wires matters a great deal. (The climax of the expose was with a stock exchange that bucked the trend by making everyone equally <em>slow</em> to straighten the odds).</p>
+<p>Michael Lewis wrote a fascinating exploration of internet wires and latency while ostensibly talking about high-frequency trading in &ldquo;<a href="https://www.amazon.com/Flash-Boys-Wall-Street-Revolt/dp/0393351599">Flash Boys</a>&rdquo;. When your arbitrage depends on acting on information received seconds or milliseconds faster than others, the length and bandwidth of those internet wires matters a great deal. (The climax of the expose was with a stock exchange that bucked the trend by making everyone equally <em>slow</em> to straighten the odds).</p>
 
 <p>Or take bitcoin mining, when a lot of people went out and purchased industrial-sized quantities of processors, hooked them together and connected them to the internet. It wasn&rsquo;t that different from the late 90s and early naughts when running your website from a home-computer-as-a-server was still possible, and when most companies still had their own server farms. The biggest difference was that - in Iceland, at least - bitcoin mining ended up costing <a href="https://fortune.com/2018/02/13/iceland-bitcoin-mining-electricity/">more in energy than powering all the homes in the country</a>. As an interesting bit of trivia, bitcoin mining today seems to be done efficiently only by <a href="https://www.coindesk.com/a-new-york-power-plant-is-mining-50k-worth-of-bitcoin-a-day">literal power plants</a>.</p>
 
-<p>If you work in the web technology space, you probably rely on CDNs (Content Delivery Networks). Using a CDN means distributing your content to multiple locations so that it can be served to you from the closest one. If you&rsquo;re in the middle of Turkey, you&rsquo;ll get your content from the Instanbul CDN location; if you&rsquo;re in New York, from the New York one. It keeps things working fast and creates safety-through-redundancy.</p>
+<p>If you work in the web technology space, you probably rely on CDNs (Content Delivery Networks). Using a CDN means distributing your content to multiple locations so that it can be served to you from the closest one. If you&rsquo;re in the middle of Turkey, you&rsquo;ll get your content from the Istanbul CDN location; if you&rsquo;re in New York, from the New York one. It keeps things working fast and creates safety-through-redundancy.</p>
 
 <p><img src="/images/007-cloudflare.jpg" alt="&quot;Cloudflare CDN locations, as of April 2020&quot;" /></p>
 
@@ -259,7 +259,7 @@
 
 <p>Even if you&rsquo;re tech savvy, virtualization is a major buzzword for forgetting the physicality of the internet. First you outsource your servers to someone else. Then you make those operating systems run virtually, in containers. The promise is of near-infinite scalability on demand. The reality is that scalability only extends as far as your provider has capacity for it scale to. Like Uber&rsquo;s &ldquo;Surge&rdquo; pricing (it goes up when everyone wants a ride), Amazon Web Services (AWS) manages this as a marketplace that automatically scales prices in response to demand.</p>
 
-<p>Google (GCP) and Microsoft (Azure) do this too, but they&rsquo;re 2nd and 3rd and are still trying to make it work. They have less users then AWS, and consequentially less capacity. So when <a href="https://www.zdnet.com/article/microsoft-cloud-services-demand-up-775-percent-prioritization-rules-in-place-due-to-covid-19/">Azure&rsquo;s demand went up more than 775%</a> on March 28th due to COVID-19-related changes, the company implemented prioritization rules and began to throttle customers&rsquo;s core functions:</p>
+<p>Google (GCP) and Microsoft (Azure) do this too, but they&rsquo;re 2nd and 3rd and are still trying to make it work. They have less users than AWS, and consequentially less capacity. So when <a href="https://www.zdnet.com/article/microsoft-cloud-services-demand-up-775-percent-prioritization-rules-in-place-due-to-covid-19/">Azure&rsquo;s demand went up more than 775%</a> on March 28th due to COVID-19-related changes, the company implemented prioritization rules and began to throttle customers&rsquo;s core functions:</p>
 
 <blockquote>
 <p>&ldquo;We&rsquo;re implementing a few temporary restrictions designed to balance the best possible experience for all of our customers. We have placed limits on free offers to prioritize capacity for existing customers. We also have limits on certain resources for new subscriptions. These are &lsquo;soft&rsquo; quota limits, and customers can raise support requests to increase these limits. If requests cannot be met immediately, we recommend customers use alternative regions (of our 54 live regions) that may have less demand surge. To manage surges in demand, we will expedite the creation of new capacity in the appropriate region.&rdquo;</p>
@@ -273,9 +273,9 @@
 
 <p>Fast forward to COVID-19. People are home. Some are working, some are unfortunately not. You can&rsquo;t go to the movies, you can&rsquo;t go out with friends. What do you do? You FaceTime friends and family, you set up Zoom happy hours, you catch up on shows from your favorite streaming service. You video, video, video, one of the most expensive (bandwidth-wise) pieces of content that you can consume. And mostly, you can do this because you don&rsquo;t pay for the bandwidth.</p>
 
-<p>It&rsquo;s an obvious strain on the internet. That&rsquo;s why Netflix, Youtube, Amazon Prime Video, and Apple TV are <a href="https://www.cnet.com/news/netflix-amazon-prime-video-apple-youtube-asked-to-slow-down-streaming-so-internet-doesnt-overload/">all cutting down bitrates</a> (quality) in their streams, to alleviate some of bandwidth stress. But it&rsquo;s not just goodwill&hellip; the European Commisioner of Internal Markets <a href="https://twitter.com/ThierryBreton/status/1240353171748331523?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1240353171748331523&amp;ref_url=https%3A%2F%2Fwww.cnet.com%2Fnews%2Fnetflix-amazon-prime-video-apple-youtube-asked-to-slow-down-streaming-so-internet-doesnt-overload%2F">is <em>asking</em></a> for it:</p>
+<p>It&rsquo;s an obvious strain on the internet. That&rsquo;s why Netflix, Youtube, Amazon Prime Video, and Apple TV are <a href="https://www.cnet.com/news/netflix-amazon-prime-video-apple-youtube-asked-to-slow-down-streaming-so-internet-doesnt-overload/">all cutting down bitrates</a> (quality) in their streams, to alleviate some of bandwidth stress. But it&rsquo;s not just goodwill&hellip; the European Commissioner of Internal Markets <a href="https://twitter.com/ThierryBreton/status/1240353171748331523?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1240353171748331523&amp;ref_url=https%3A%2F%2Fwww.cnet.com%2Fnews%2Fnetflix-amazon-prime-video-apple-youtube-asked-to-slow-down-streaming-so-internet-doesnt-overload%2F">is <em>asking</em></a> for it:</p>
 
-<p><img src="/images/007-eu-netflix.jpg" alt="&quot;Thierry Breton on Twitter, asking Netf=lix to cut back quality.&quot;" /></p>
+<p><img src="/images/007-eu-netflix.jpg" alt="&quot;Thierry Breton on Twitter, asking Netflix to cut back quality.&quot;" /></p>
 
 <p>Which brings us back to the Google error I started my day with, a week ago. The one where the error message read in its entirety:</p>
 
@@ -290,6 +290,8 @@
 <p>If 2018 was all about the Internet of Things, and 2019 about the Internet of Privacy Violation, then I kind of expect 2020 to be about the Internet of Pipes, Capacity, and Physicality.</p>
 
 <p>Well, probably not, but it sounds nice.</p>
+
+<p><em>This was crossposted at RomanDesign.co under the title &ldquo;<a href="https://romandesign.co/the-internet-of-pipes/">The Internet of Pipes</a>&ldquo;</em></p>
 <hr style="border-bottom: dashed black 1px; border-top:none;border-left:none;border-right:none; margin:55px 0px;">
 <section class="under-title">
     <div class="under-title__info" style="width:100%;">
