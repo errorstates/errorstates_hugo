@@ -1,12 +1,11 @@
 +++
 title = "007 - The Internet of Pipes"
-date = "2020-04-40T20:54:24-04:00"
-publishdate = "2020-04-40T20:54:24-04:00"
-draft = false
+date = "2020-04-04T20:54:24-04:00"
+publishdate = "2020-04-04T20:54:24-04:00"
 
 description = "With many more people suddenly working from home, or simply being home without an opportunity to leave, the internet-as-infrastructure grew severely strained at the end of March. In a couple of memorable instances, it broke. This is the story of why."
 
-summary = "Well now. Is it fair to call the COVID-19-initiated crisis the biggest error state of our world economy and healthcare system? To soon? Ok. I'll write about other things, such as the internet. With many more people suddenly working from home, or simply being home without an opportunity to leave, the internet-as-infrastructure grew severely strained at the end of March. In a couple of memorable instances, it broke.  [Continue Reading]"
+summary = "Well now. Is it fair to call the COVID-19-initiated crisis the biggest error state of our world economy and healthcare system? To soon? Ok. I'll write about other things, such as the internet. With many more people suddenly working from home, or simply being home without an opportunity to leave, the internet-as-infrastructure grew severely strained at the end of March. In a couple of memorable instances, it broke. [Continue Reading]"
 
 tags = ["Internet","Pipes","Google","SaaS","Digital"]
 

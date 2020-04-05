@@ -1,6 +1,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>https://errorstates.com/posts/007-internet-of-pipes/</loc>
+        <lastmod>2020-04-04T20:54:24-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/digital/</loc>
+        <lastmod>2020-04-04T20:54:24-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/</loc>
+        <lastmod>2020-04-04T20:54:24-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/google/</loc>
+        <lastmod>2020-04-04T20:54:24-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/internet/</loc>
+        <lastmod>2020-04-04T20:54:24-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/pipes/</loc>
+        <lastmod>2020-04-04T20:54:24-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/posts/</loc>
+        <lastmod>2020-04-04T20:54:24-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/saas/</loc>
+        <lastmod>2020-04-04T20:54:24-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/</loc>
+        <lastmod>2020-04-04T20:54:24-04:00</lastmod>
+    </url>
+    
+    <url>
         <loc>https://errorstates.com/posts/006-maintanence-needed/</loc>
         <lastmod>2020-03-03T20:38:41-05:00</lastmod>
     </url>
@@ -16,27 +61,12 @@
     </url>
     
     <url>
-        <loc>https://errorstates.com/</loc>
-        <lastmod>2020-03-03T20:38:41-05:00</lastmod>
-    </url>
-    
-    <url>
         <loc>https://errorstates.com/tags/hardware/</loc>
         <lastmod>2020-03-03T20:38:41-05:00</lastmod>
     </url>
     
     <url>
         <loc>https://errorstates.com/tags/maintenance/</loc>
-        <lastmod>2020-03-03T20:38:41-05:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/posts/</loc>
-        <lastmod>2020-03-03T20:38:41-05:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/tags/</loc>
         <lastmod>2020-03-03T20:38:41-05:00</lastmod>
     </url>
     
@@ -156,11 +186,6 @@
     </url>
     
     <url>
-        <loc>https://errorstates.com/tags/internet/</loc>
-        <lastmod>2019-10-28T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
         <loc>https://errorstates.com/tags/smart-tv/</loc>
         <lastmod>2019-10-28T00:00:00+00:00</lastmod>
     </url>
@@ -183,31 +208,6 @@
     <url>
         <loc>https://errorstates.com/posts/000-hello-world/</loc>
         <lastmod>2008-01-28T21:11:55-05:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/posts/007-internet-is-infrastructure/</loc>
-        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/tags/digital/</loc>
-        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/tags/google/</loc>
-        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/tags/pipes/</loc>
-        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/tags/saas/</loc>
-        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
     </url>
     
 </urlset>
