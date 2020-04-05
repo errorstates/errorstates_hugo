@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Internet on Error States</title>
-    <link>https://errorstates.com/tags/internet/</link>
-    <description>Recent content in Internet on Error States</description>
+    <title>SaaS on Error States</title>
+    <link>https://errorstates.com/tags/saas/</link>
+    <description>Recent content in SaaS on Error States</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://errorstates.com/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://errorstates.com/tags/saas/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>002 - Bad Gym Decision</title>
-      <link>https://errorstates.com/posts/002-gym-decision/</link>
-      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://errorstates.com/posts/002-gym-decision/</guid>
-      <description>Wifi Problem? Or did the Smart TV go into screensaver mode and accidently unlock a bunch of back-end options? Either way, looks like Gym Decision connected their window-display smart TV to the public Spectrum Wifi and never looked back. The alert has been there for four days now and it&amp;rsquo;s right next to the front door.</description>
-    </item>
     
     <item>
       <title>007 - The Internet of Pipes</title>

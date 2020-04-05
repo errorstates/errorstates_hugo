@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# To run this, use the following command in terminal.
+# $ ./deploy.sh "Your optional commit message"
+
 # If a command fails then the deploy stops
 set -e
 
