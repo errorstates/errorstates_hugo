@@ -1,17 +1,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>https://errorstates.com/</loc>
+        <lastmod>2020-04-30T19:58:06-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/infrastructure/</loc>
+        <lastmod>2020-04-30T19:58:06-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/machine-vision/</loc>
+        <lastmod>2020-04-30T19:58:06-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/posts/</loc>
+        <lastmod>2020-04-30T19:58:06-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/roundup/</loc>
+        <lastmod>2020-04-30T19:58:06-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/posts/r003-april-2020/</loc>
+        <lastmod>2020-04-30T19:58:06-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/</loc>
+        <lastmod>2020-04-30T19:58:06-04:00</lastmod>
+    </url>
+    
+    <url>
         <loc>https://errorstates.com/posts/007-internet-of-pipes/</loc>
         <lastmod>2020-04-04T20:54:24-04:00</lastmod>
     </url>
     
     <url>
         <loc>https://errorstates.com/tags/digital/</loc>
-        <lastmod>2020-04-04T20:54:24-04:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/</loc>
         <lastmod>2020-04-04T20:54:24-04:00</lastmod>
     </url>
     
@@ -31,17 +61,7 @@
     </url>
     
     <url>
-        <loc>https://errorstates.com/posts/</loc>
-        <lastmod>2020-04-04T20:54:24-04:00</lastmod>
-    </url>
-    
-    <url>
         <loc>https://errorstates.com/tags/saas/</loc>
-        <lastmod>2020-04-04T20:54:24-04:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/tags/</loc>
         <lastmod>2020-04-04T20:54:24-04:00</lastmod>
     </url>
     
