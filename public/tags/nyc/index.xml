@@ -6,10 +6,19 @@
     <description>Recent content in NYC on Error States</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Feb 2020 22:15:10 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2020 09:47:27 -0400</lastBuildDate>
     
 	<atom:link href="https://errorstates.com/tags/nyc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>008 - Subways Beta</title>
+      <link>https://errorstates.com/posts/008-beta-subways/</link>
+      <pubDate>Sun, 03 May 2020 09:47:27 -0400</pubDate>
+      
+      <guid>https://errorstates.com/posts/008-beta-subways/</guid>
+      <description>What happens when you introduce agile software development into rolling out public digital infrastructure? [Continue Reading]</description>
+    </item>
     
     <item>
       <title>005 - LinkNYC &amp; Distributed Hardware at Scale</title>

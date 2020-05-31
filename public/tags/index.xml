@@ -6,10 +6,100 @@
     <description>Recent content in Tags on Error States</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2020 19:58:06 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2020 17:57:00 -0400</lastBuildDate>
     
 	<atom:link href="https://errorstates.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Accessibility</title>
+      <link>https://errorstates.com/tags/accessibility/</link>
+      <pubDate>Sun, 31 May 2020 17:57:00 -0400</pubDate>
+      
+      <guid>https://errorstates.com/tags/accessibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear Algebra</title>
+      <link>https://errorstates.com/tags/linear-algebra/</link>
+      <pubDate>Sun, 31 May 2020 17:57:00 -0400</pubDate>
+      
+      <guid>https://errorstates.com/tags/linear-algebra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roundup</title>
+      <link>https://errorstates.com/tags/roundup/</link>
+      <pubDate>Sun, 31 May 2020 17:57:00 -0400</pubDate>
+      
+      <guid>https://errorstates.com/tags/roundup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UX</title>
+      <link>https://errorstates.com/tags/ux/</link>
+      <pubDate>Sun, 31 May 2020 17:57:00 -0400</pubDate>
+      
+      <guid>https://errorstates.com/tags/ux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advertising-Adjacent Hardware</title>
+      <link>https://errorstates.com/tags/advertising-adjacent-hardware/</link>
+      <pubDate>Sun, 03 May 2020 09:47:27 -0400</pubDate>
+      
+      <guid>https://errorstates.com/tags/advertising-adjacent-hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>https://errorstates.com/tags/data/</link>
+      <pubDate>Sun, 03 May 2020 09:47:27 -0400</pubDate>
+      
+      <guid>https://errorstates.com/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware</title>
+      <link>https://errorstates.com/tags/hardware/</link>
+      <pubDate>Sun, 03 May 2020 09:47:27 -0400</pubDate>
+      
+      <guid>https://errorstates.com/tags/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NYC</title>
+      <link>https://errorstates.com/tags/nyc/</link>
+      <pubDate>Sun, 03 May 2020 09:47:27 -0400</pubDate>
+      
+      <guid>https://errorstates.com/tags/nyc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Screens</title>
+      <link>https://errorstates.com/tags/screens/</link>
+      <pubDate>Sun, 03 May 2020 09:47:27 -0400</pubDate>
+      
+      <guid>https://errorstates.com/tags/screens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subway</title>
+      <link>https://errorstates.com/tags/subway/</link>
+      <pubDate>Sun, 03 May 2020 09:47:27 -0400</pubDate>
+      
+      <guid>https://errorstates.com/tags/subway/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Infrastructure</title>
@@ -26,15 +116,6 @@
       <pubDate>Thu, 30 Apr 2020 19:58:06 -0400</pubDate>
       
       <guid>https://errorstates.com/tags/machine-vision/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Roundup</title>
-      <link>https://errorstates.com/tags/roundup/</link>
-      <pubDate>Thu, 30 Apr 2020 19:58:06 -0400</pubDate>
-      
-      <guid>https://errorstates.com/tags/roundup/</guid>
       <description></description>
     </item>
     
@@ -102,15 +183,6 @@
     </item>
     
     <item>
-      <title>Hardware</title>
-      <link>https://errorstates.com/tags/hardware/</link>
-      <pubDate>Tue, 03 Mar 2020 20:38:41 -0500</pubDate>
-      
-      <guid>https://errorstates.com/tags/hardware/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Maintenance</title>
       <link>https://errorstates.com/tags/maintenance/</link>
       <pubDate>Tue, 03 Mar 2020 20:38:41 -0500</pubDate>
@@ -125,15 +197,6 @@
       <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://errorstates.com/tags/cloud/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data</title>
-      <link>https://errorstates.com/tags/data/</link>
-      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://errorstates.com/tags/data/</guid>
       <description></description>
     </item>
     
@@ -188,15 +251,6 @@
       <pubDate>Thu, 13 Feb 2020 22:15:10 -0500</pubDate>
       
       <guid>https://errorstates.com/tags/distributed-systems/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NYC</title>
-      <link>https://errorstates.com/tags/nyc/</link>
-      <pubDate>Thu, 13 Feb 2020 22:15:10 -0500</pubDate>
-      
-      <guid>https://errorstates.com/tags/nyc/</guid>
       <description></description>
     </item>
     

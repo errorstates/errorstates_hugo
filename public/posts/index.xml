@@ -6,10 +6,28 @@
     <description>Recent content in Posts on Error States</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2020 19:58:06 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2020 17:57:00 -0400</lastBuildDate>
     
 	<atom:link href="https://errorstates.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Roundup 004, May 2020</title>
+      <link>https://errorstates.com/posts/r004-may-2020/</link>
+      <pubDate>Sun, 31 May 2020 17:57:00 -0400</pubDate>
+      
+      <guid>https://errorstates.com/posts/r004-may-2020/</guid>
+      <description>Notes on accessibility, UX, linear algebra, and wifi-hogging grills.</description>
+    </item>
+    
+    <item>
+      <title>008 - Subways Beta</title>
+      <link>https://errorstates.com/posts/008-beta-subways/</link>
+      <pubDate>Sun, 03 May 2020 09:47:27 -0400</pubDate>
+      
+      <guid>https://errorstates.com/posts/008-beta-subways/</guid>
+      <description>What happens when you introduce agile software development into rolling out public digital infrastructure? [Continue Reading]</description>
+    </item>
     
     <item>
       <title>Roundup 002, April 2020</title>

@@ -1,8 +1,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>https://errorstates.com/tags/accessibility/</loc>
+        <lastmod>2020-05-31T17:57:00-04:00</lastmod>
+    </url>
+    
+    <url>
         <loc>https://errorstates.com/</loc>
-        <lastmod>2020-04-30T19:58:06-04:00</lastmod>
+        <lastmod>2020-05-31T17:57:00-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/linear-algebra/</loc>
+        <lastmod>2020-05-31T17:57:00-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/posts/</loc>
+        <lastmod>2020-05-31T17:57:00-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/roundup/</loc>
+        <lastmod>2020-05-31T17:57:00-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/posts/r004-may-2020/</loc>
+        <lastmod>2020-05-31T17:57:00-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/</loc>
+        <lastmod>2020-05-31T17:57:00-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/ux/</loc>
+        <lastmod>2020-05-31T17:57:00-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/posts/008-beta-subways/</loc>
+        <lastmod>2020-05-03T09:47:27-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/advertising-adjacent-hardware/</loc>
+        <lastmod>2020-05-03T09:47:27-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/data/</loc>
+        <lastmod>2020-05-03T09:47:27-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/hardware/</loc>
+        <lastmod>2020-05-03T09:47:27-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/nyc/</loc>
+        <lastmod>2020-05-03T09:47:27-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/screens/</loc>
+        <lastmod>2020-05-03T09:47:27-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/subway/</loc>
+        <lastmod>2020-05-03T09:47:27-04:00</lastmod>
     </url>
     
     <url>
@@ -16,22 +86,7 @@
     </url>
     
     <url>
-        <loc>https://errorstates.com/posts/</loc>
-        <lastmod>2020-04-30T19:58:06-04:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/tags/roundup/</loc>
-        <lastmod>2020-04-30T19:58:06-04:00</lastmod>
-    </url>
-    
-    <url>
         <loc>https://errorstates.com/posts/r003-april-2020/</loc>
-        <lastmod>2020-04-30T19:58:06-04:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/tags/</loc>
         <lastmod>2020-04-30T19:58:06-04:00</lastmod>
     </url>
     
@@ -81,22 +136,12 @@
     </url>
     
     <url>
-        <loc>https://errorstates.com/tags/hardware/</loc>
-        <lastmod>2020-03-03T20:38:41-05:00</lastmod>
-    </url>
-    
-    <url>
         <loc>https://errorstates.com/tags/maintenance/</loc>
         <lastmod>2020-03-03T20:38:41-05:00</lastmod>
     </url>
     
     <url>
         <loc>https://errorstates.com/tags/cloud/</loc>
-        <lastmod>2020-02-28T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/tags/data/</loc>
         <lastmod>2020-02-28T00:00:00+00:00</lastmod>
     </url>
     
@@ -137,11 +182,6 @@
     
     <url>
         <loc>https://errorstates.com/tags/distributed-systems/</loc>
-        <lastmod>2020-02-13T22:15:10-05:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/tags/nyc/</loc>
         <lastmod>2020-02-13T22:15:10-05:00</lastmod>
     </url>
     
