@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>email on Error States</title>
+    <link>https://errorstates.com/tags/email/</link>
+    <description>Recent content in email on Error States</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Jul 2020 16:00:29 -0400</lastBuildDate>
+    
+	<atom:link href="https://errorstates.com/tags/email/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>010 - Dear %%First Name%%</title>
+      <link>https://errorstates.com/posts/010-dear-first-name/</link>
+      <pubDate>Fri, 03 Jul 2020 16:00:29 -0400</pubDate>
+      
+      <guid>https://errorstates.com/posts/010-dear-first-name/</guid>
+      <description>Marketing is all about personalization, but sometimes that goes wrong. [Continue Reading]</description>
+    </item>
+    
+  </channel>
+</rss>

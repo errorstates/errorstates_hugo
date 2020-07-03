@@ -6,10 +6,19 @@
     <description>Recent content in Roundup on Error States</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2020 17:57:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2020 08:57:00 -0400</lastBuildDate>
     
 	<atom:link href="https://errorstates.com/tags/roundup/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Roundup 005, June 2020</title>
+      <link>https://errorstates.com/posts/r005-june-2020/</link>
+      <pubDate>Fri, 03 Jul 2020 08:57:00 -0400</pubDate>
+      
+      <guid>https://errorstates.com/posts/r005-june-2020/</guid>
+      <description>Notes on accessibility, UX, linear algebra, and wifi-hogging grills. [Continue Reading]</description>
+    </item>
     
     <item>
       <title>Roundup 004, May 2020</title>
@@ -17,7 +26,7 @@
       <pubDate>Sun, 31 May 2020 17:57:00 -0400</pubDate>
       
       <guid>https://errorstates.com/posts/r004-may-2020/</guid>
-      <description>Notes on accessibility, UX, linear algebra, and wifi-hogging grills.</description>
+      <description>Notes on accessibility, UX, linear algebra, and wifi-hogging grills. [Continue Reading]</description>
     </item>
     
     <item>
