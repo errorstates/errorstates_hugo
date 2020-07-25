@@ -45,6 +45,9 @@ Anyway, it happens. It's more annoying when a _spammer_ does it (sorry Eric, I h
 
 Cue my burly army ranger voice: _I've got war stories about this..._ Because it's not the end of a brand's troubles. 
 
+!["Drizzly gets it wrong"](/images/010-drizzly-fail.jpeg)
+(This one isn't mine. Source: https://www.linkedin.com/posts/christophschachner_marketing-activity-6673127048275361792-astj/)
+
 If you're working with a self-submitted form, then you can have bad data or formatting if it isn't cleaned properly. It's just as likely that you might find yourself emailing "Hi JENNIFER" or "Hi jennifer", assuming you forgot to add the `style="text-transform:capitalize;"` inline code. 
 
 Sometimes, you get a wise-ass who submits their name as "I'm not telling you!!"... which makes for a funny "Hi I'm Not Telling You!!" email somewhere down the road.  

@@ -4,7 +4,7 @@ date = "2020-05-03T09:47:27-04:00"
 publishdate = ""
 draft = false
 
-description = "This is for google search snippets."
+description = "What happens when you introduce agile software development into rolling out public digital infrastructure?"
 
 summary = "What happens when you introduce agile software development into rolling out public digital infrastructure? [Continue Reading]"
 
