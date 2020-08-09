@@ -6,10 +6,46 @@
     <description>Recent content in Tags on Error States</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jul 2020 16:00:29 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2020 08:57:00 -0400</lastBuildDate>
     
 	<atom:link href="https://errorstates.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cyborg</title>
+      <link>https://errorstates.com/tags/cyborg/</link>
+      <pubDate>Sat, 01 Aug 2020 08:57:00 -0400</pubDate>
+      
+      <guid>https://errorstates.com/tags/cyborg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infrastructure</title>
+      <link>https://errorstates.com/tags/infrastructure/</link>
+      <pubDate>Sat, 01 Aug 2020 08:57:00 -0400</pubDate>
+      
+      <guid>https://errorstates.com/tags/infrastructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Vision</title>
+      <link>https://errorstates.com/tags/machine-vision/</link>
+      <pubDate>Sat, 01 Aug 2020 08:57:00 -0400</pubDate>
+      
+      <guid>https://errorstates.com/tags/machine-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roundup</title>
+      <link>https://errorstates.com/tags/roundup/</link>
+      <pubDate>Sat, 01 Aug 2020 08:57:00 -0400</pubDate>
+      
+      <guid>https://errorstates.com/tags/roundup/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>email</title>
@@ -66,9 +102,45 @@
     </item>
     
     <item>
+      <title>Black Lives Matter</title>
+      <link>https://errorstates.com/tags/black-lives-matter/</link>
+      <pubDate>Fri, 03 Jul 2020 08:57:00 -0400</pubDate>
+      
+      <guid>https://errorstates.com/tags/black-lives-matter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code</title>
+      <link>https://errorstates.com/tags/code/</link>
+      <pubDate>Fri, 03 Jul 2020 08:57:00 -0400</pubDate>
+      
+      <guid>https://errorstates.com/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware</title>
+      <link>https://errorstates.com/tags/hardware/</link>
+      <pubDate>Fri, 03 Jul 2020 08:57:00 -0400</pubDate>
+      
+      <guid>https://errorstates.com/tags/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phones</title>
+      <link>https://errorstates.com/tags/phones/</link>
+      <pubDate>Fri, 03 Jul 2020 08:57:00 -0400</pubDate>
+      
+      <guid>https://errorstates.com/tags/phones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Accessibility</title>
       <link>https://errorstates.com/tags/accessibility/</link>
-      <pubDate>Fri, 03 Jul 2020 08:57:00 -0400</pubDate>
+      <pubDate>Sun, 31 May 2020 17:57:00 -0400</pubDate>
       
       <guid>https://errorstates.com/tags/accessibility/</guid>
       <description></description>
@@ -77,25 +149,16 @@
     <item>
       <title>Linear Algebra</title>
       <link>https://errorstates.com/tags/linear-algebra/</link>
-      <pubDate>Fri, 03 Jul 2020 08:57:00 -0400</pubDate>
+      <pubDate>Sun, 31 May 2020 17:57:00 -0400</pubDate>
       
       <guid>https://errorstates.com/tags/linear-algebra/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Roundup</title>
-      <link>https://errorstates.com/tags/roundup/</link>
-      <pubDate>Fri, 03 Jul 2020 08:57:00 -0400</pubDate>
-      
-      <guid>https://errorstates.com/tags/roundup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>UX</title>
       <link>https://errorstates.com/tags/ux/</link>
-      <pubDate>Fri, 03 Jul 2020 08:57:00 -0400</pubDate>
+      <pubDate>Sun, 31 May 2020 17:57:00 -0400</pubDate>
       
       <guid>https://errorstates.com/tags/ux/</guid>
       <description></description>
@@ -116,15 +179,6 @@
       <pubDate>Sun, 03 May 2020 09:47:27 -0400</pubDate>
       
       <guid>https://errorstates.com/tags/data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hardware</title>
-      <link>https://errorstates.com/tags/hardware/</link>
-      <pubDate>Sun, 03 May 2020 09:47:27 -0400</pubDate>
-      
-      <guid>https://errorstates.com/tags/hardware/</guid>
       <description></description>
     </item>
     
@@ -152,24 +206,6 @@
       <pubDate>Sun, 03 May 2020 09:47:27 -0400</pubDate>
       
       <guid>https://errorstates.com/tags/subway/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Infrastructure</title>
-      <link>https://errorstates.com/tags/infrastructure/</link>
-      <pubDate>Thu, 30 Apr 2020 19:58:06 -0400</pubDate>
-      
-      <guid>https://errorstates.com/tags/infrastructure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Vision</title>
-      <link>https://errorstates.com/tags/machine-vision/</link>
-      <pubDate>Thu, 30 Apr 2020 19:58:06 -0400</pubDate>
-      
-      <guid>https://errorstates.com/tags/machine-vision/</guid>
       <description></description>
     </item>
     

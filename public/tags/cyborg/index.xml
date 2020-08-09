@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Machine Vision on Error States</title>
-    <link>https://errorstates.com/tags/machine-vision/</link>
-    <description>Recent content in Machine Vision on Error States</description>
+    <title>Cyborg on Error States</title>
+    <link>https://errorstates.com/tags/cyborg/</link>
+    <description>Recent content in Cyborg on Error States</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Aug 2020 08:57:00 -0400</lastBuildDate>
     
-	<atom:link href="https://errorstates.com/tags/machine-vision/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://errorstates.com/tags/cyborg/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://errorstates.com/posts/r006-july-2020/</guid>
       <description>Deb Chachra: &amp;lsquo;Alone in my apartment, at dusk, I flip a switch to turn on a light. In that instant, not only are my individual senses augmented (now I can see at night), but I become part of a continent-spanning colossus. My reach extends out for thousands of miles, across a national border, encompassing a nuclear power plant, a massive hydroelectric project, scores of substations, thousands of pylons, and an incalculable amount of human expertise, skill, and labour.&amp;rsquo; [Continue Reading]</description>
-    </item>
-    
-    <item>
-      <title>Roundup 002, April 2020</title>
-      <link>https://errorstates.com/posts/r003-april-2020/</link>
-      <pubDate>Thu, 30 Apr 2020 19:58:06 -0400</pubDate>
-      
-      <guid>https://errorstates.com/posts/r003-april-2020/</guid>
-      <description>Error States Roundup 3, April 2020: Machine Vision, Infrastructure, and more on Link NYC. [Continue Reading]</description>
     </item>
     
   </channel>

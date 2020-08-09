@@ -1,6 +1,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>https://errorstates.com/tags/cyborg/</loc>
+        <lastmod>2020-08-01T08:57:00-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/</loc>
+        <lastmod>2020-08-01T08:57:00-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/infrastructure/</loc>
+        <lastmod>2020-08-01T08:57:00-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/machine-vision/</loc>
+        <lastmod>2020-08-01T08:57:00-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/posts/</loc>
+        <lastmod>2020-08-01T08:57:00-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/roundup/</loc>
+        <lastmod>2020-08-01T08:57:00-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/posts/r006-july-2020/</loc>
+        <lastmod>2020-08-01T08:57:00-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/</loc>
+        <lastmod>2020-08-01T08:57:00-04:00</lastmod>
+    </url>
+    
+    <url>
         <loc>https://errorstates.com/posts/010-dear-first-name/</loc>
         <lastmod>2020-07-03T16:00:29-04:00</lastmod>
     </url>
@@ -11,22 +51,7 @@
     </url>
     
     <url>
-        <loc>https://errorstates.com/</loc>
-        <lastmod>2020-07-03T16:00:29-04:00</lastmod>
-    </url>
-    
-    <url>
         <loc>https://errorstates.com/tags/marketing/</loc>
-        <lastmod>2020-07-03T16:00:29-04:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/posts/</loc>
-        <lastmod>2020-07-03T16:00:29-04:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/tags/</loc>
         <lastmod>2020-07-03T16:00:29-04:00</lastmod>
     </url>
     
@@ -56,17 +81,22 @@
     </url>
     
     <url>
-        <loc>https://errorstates.com/tags/accessibility/</loc>
+        <loc>https://errorstates.com/tags/black-lives-matter/</loc>
         <lastmod>2020-07-03T08:57:00-04:00</lastmod>
     </url>
     
     <url>
-        <loc>https://errorstates.com/tags/linear-algebra/</loc>
+        <loc>https://errorstates.com/tags/code/</loc>
         <lastmod>2020-07-03T08:57:00-04:00</lastmod>
     </url>
     
     <url>
-        <loc>https://errorstates.com/tags/roundup/</loc>
+        <loc>https://errorstates.com/tags/hardware/</loc>
+        <lastmod>2020-07-03T08:57:00-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/phones/</loc>
         <lastmod>2020-07-03T08:57:00-04:00</lastmod>
     </url>
     
@@ -76,12 +106,22 @@
     </url>
     
     <url>
-        <loc>https://errorstates.com/tags/ux/</loc>
-        <lastmod>2020-07-03T08:57:00-04:00</lastmod>
+        <loc>https://errorstates.com/tags/accessibility/</loc>
+        <lastmod>2020-05-31T17:57:00-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/linear-algebra/</loc>
+        <lastmod>2020-05-31T17:57:00-04:00</lastmod>
     </url>
     
     <url>
         <loc>https://errorstates.com/posts/r004-may-2020/</loc>
+        <lastmod>2020-05-31T17:57:00-04:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/ux/</loc>
         <lastmod>2020-05-31T17:57:00-04:00</lastmod>
     </url>
     
@@ -101,11 +141,6 @@
     </url>
     
     <url>
-        <loc>https://errorstates.com/tags/hardware/</loc>
-        <lastmod>2020-05-03T09:47:27-04:00</lastmod>
-    </url>
-    
-    <url>
         <loc>https://errorstates.com/tags/nyc/</loc>
         <lastmod>2020-05-03T09:47:27-04:00</lastmod>
     </url>
@@ -118,16 +153,6 @@
     <url>
         <loc>https://errorstates.com/tags/subway/</loc>
         <lastmod>2020-05-03T09:47:27-04:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/tags/infrastructure/</loc>
-        <lastmod>2020-04-30T19:58:06-04:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/tags/machine-vision/</loc>
-        <lastmod>2020-04-30T19:58:06-04:00</lastmod>
     </url>
     
     <url>
