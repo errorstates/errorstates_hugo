@@ -55,3 +55,5 @@ Sometimes, you get a wise-ass who submits their name as "I'm not telling you!!".
 Or if you're working with a "Full Name" form, you need to be mindful of how the data is being split for personalization. That kind of stuff is hard to write rules around -- it ranges from "Dr." or "Mr." sometimes being the first name, or having "III" being the last name if split by spaces. Never mind the eternal questions about what to do with people with three names. That middle name -- do you hide it? Keep it as part of a last name? First name? It's just bad form design in my opinion.
 
 Next time someone addresses you as "Hi %%First Name%%!", just think of this blog post. 
+
+!["USPS"](/images/010-usps.jpg)

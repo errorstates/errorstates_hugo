@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Preservation on Error States</title>
+    <link>https://errorstates.com/tags/preservation/</link>
+    <description>Recent content in Preservation on Error States</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Sep 2020 12:34:06 -0400</lastBuildDate>
+    
+	<atom:link href="https://errorstates.com/tags/preservation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>011 - Preserving Digital Media</title>
+      <link>https://errorstates.com/posts/011-preserving-digital-media/</link>
+      <pubDate>Sun, 27 Sep 2020 12:34:06 -0400</pubDate>
+      
+      <guid>https://errorstates.com/posts/011-preserving-digital-media/</guid>
+      <description>Much of our known history is told through artifacts that we have left behind. How will this continue in the age of digital media? [Continue Reading]</description>
+    </item>
+    
+  </channel>
+</rss>
