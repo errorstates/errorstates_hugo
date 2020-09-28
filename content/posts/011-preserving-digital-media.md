@@ -2,7 +2,7 @@
 title = "011 - Preserving Digital Media"
 date = "2020-09-27T12:34:06-04:00"
 publishdate = "2020-09-27T12:34:06-04:00"
-draft = false
+draft = true
 
 description = "Much of our known history is told through artifacts that we have left behind. How will this continue in the age of digital media?"
 
