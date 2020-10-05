@@ -2,7 +2,7 @@
 title = "011 - Preserving Digital Media"
 date = "2020-09-27T12:34:06-04:00"
 publishdate = "2020-09-27T12:34:06-04:00"
-draft = true
+draft = false
 
 description = "Much of our known history is told through artifacts that we have left behind. How will this continue in the age of digital media?"
 
@@ -23,13 +23,13 @@ tags = ["Digital Media","Archeology","Preservation"]
 
 In [**A \*New\* Program for Graphic Design**](https://a-new-program-for-graphic-design.org), David Reinfurt recounts a trip he made to MIT while researching the work of Muriel Cooper, an artist and researcher who's work spanned neatly spanned the analog commercial production of art with early digital production:
 
-> We proceed by visiting the MIT Media Lab, where Muriel Cooper spent the last years of her working life, from 1985-1994, continuing the work of the Visible Language Workshop. I'm here to meet a graduate student who's procured a LaserDisk which includes some of the last work of the Workshop. With LaserDisk in hand, we spend the next hour or so trawling various sub basements of the Media Lab building searching for an analog LaserDisc player capable of playing the 20-year-old media format. As we enter more than one room containing stacks of outdated hardware, too difficult to repair, and rotting magnetic-tape formats whose chemical clocks are ticking, I am struck by the ways in which this recent past becomes so quickly inaccessible in a digital medium. In start contrast to the piles of posters that provide a visceral record of the Center for Advanced Visual Studies, these dead media provide nothing tangible. (As much of Muriel Cooper's most important work was in a digital medium, I become more convinced that accounting for her work is critical - now.) <sup>1</sup>
+> We proceed by visiting the MIT Media Lab, where Muriel Cooper spent the last years of her working life, from 1985-1994, continuing the work of the Visible Language Workshop. I'm here to meet a graduate student who's procured a LaserDisk which includes some of the last work of the Workshop. With LaserDisk in hand, we spend the next hour or so trawling various sub basements of the Media Lab building searching for an analog LaserDisc player capable of playing the 20-year-old media format. As we enter more than one room containing stacks of outdated hardware, too difficult to repair, and rotting magnetic-tape formats whose chemical clocks are ticking, I am struck by the ways in which this recent past becomes so quickly inaccessible in a digital medium. In stark contrast to the piles of posters that provide a visceral record of the Center for Advanced Visual Studies, these dead media provide nothing tangible. (As much of Muriel Cooper's most important work was in a digital medium, I become more convinced that accounting for her work is critical - now.) <sup>1</sup>
 
 20 years for obsolescence to set in, in an archive. 
 
 Others are not so lucky. Here's Reinfurt again, now describing the Tetracono by Bruno Munari. It's a small-run piece of "time based" art that changes as you watch it. Reinfurt set out to find a working copy, and has come across it at an archivist's storage:
 
-> We unpacked it, but we couldn't find the power cord. The archivist found it a bit later that evening, plugged it in, started it up, and sent me a video. What I noticed immediately was the the Tetracono was running, yes, but, based on everything I had uncovered, it was running incorrectly according to Munari's program. [...] 
+> We unpacked it, but we couldn't find the power cord. The archivist found it a bit later that evening, plugged it in, started it up, and sent me a video. What I noticed immediately was that the Tetracono was running, yes, but, based on everything I had uncovered, it was running incorrectly according to Munari's program. [...] 
 
 >On returning, we confirmed the fact that it was, in fact, counter to the way that Munari had intended. The archivist had been working with the foundation for a long time and was involved when this Tetracono had been "renovated" about 14 years earlier for a show at the Museo del Novecento. [...] 
 
@@ -47,7 +47,7 @@ Culture and ideas are not too different. Here's architect Jimenez Lai on such dr
 
 ![Mesopotamian tablet was written nearly 4000 years ago](https://blog.britishmuseum.org/wp-content/uploads/2016/08/Worlds-oldest-customer-complaint.png)
 
-In Japan, the aging of objects and exploration of their imperfections is reflected in the culture of production. Wabi-sabi, mononoaware, and other aesthetic concepts not only drive how things are made, they also implicitly hint at the longevity and accumulation of future-heritage of these objects:
+In Japan, the aging of objects and exploration of their imperfections is reflected in the culture of production. Wabi-sabi, mono no aware, and other aesthetic concepts not only drive how things are made, they also implicitly hint at the longevity and accumulation of future-heritage of these objects:
 
 > The works was to be picked up, used, and thus in some way brought to life. Over time, and with everyday use, their appearance inevitably changes. Discolorations and traces of heat and humidity become visible, and with them the memory of the mutability, imperfection, and impermanence of all existence in the world. [...] Their works are always functional, yet they sometimes seem like art objects too, which is not a contradiction in terms. A separation between applied and "pure" art, between art and craft, did not exist in Japan for a long time. <sup>4</sup>
 
@@ -57,7 +57,7 @@ Digital media is in many ways the opposite of future-facing/time-tested craftsma
 
 There are two kinds of digital media. One is digital media that has a physical embodiment. The other is the realm of the purely digital.
 
-It goes without saying that physically embodied things degrade. Things are _designed_ to degrade. But digital media's degradation leaves no trace of the original content, just a useless container for what was. Reinfurt's LaserDisks is an example. Vinyl get scratched and becomes unplayable, unreadable. Tapes melt into tree sap.<sup>5</sup> Batteries lose their charges and cant power their cases any more. Powercords are lost. Magnetic tapes get erased. The original strips of card-powered programming tear, get eaten away by bugs, become dust. The players get lost and cannot read the content. 
+It goes without saying that physically embodied things degrade. Things are _designed_ to degrade. But digital media's degradation leaves no trace of the original content, just a useless container for what was. Reinfurt's LaserDisks is an example. Vinyl get scratched and becomes unplayable, unreadable. Tapes melt into tree sap.<sup>5</sup> Batteries lose their charges and can't power their cases anymore. Powercords are lost. Magnetic tapes get erased. The original strips of card-powered programming tear, get eaten away by bugs, become dust. The players get lost and cannot read the content. 
 
 We are left with sentimental husks of plastic and metal - the treasure box but not the treasure. 
 
@@ -104,7 +104,7 @@ Going back to data center for a moment, the industry has come a long way since s
 Surely better than a book would have fared underwater, but better than the [Antikythera mechanism](https://en.wikipedia.org/wiki/Antikythera_mechanism), the prototypical computer?
 
 I'm often reminded of "[Can Neuroscience Understand Donkey Kong, Let Alone a Brain?
-](https://www.theatlantic.com/science/archive/2016/06/can-neuroscience-understand-donkey-kong-let-alone-a-brain/485177/)", research that pointed out that our techniques for understanding brains by looking at the hardware are woefully inadequate analogues for understanding similarly complex digital processes by looking strictly at their circuit boards.<sup>11</sup> If a data center goes down, what do we understand from the circuitboards? Are the programs -- stored as electron charge configurations -- readable through any form of technical, reconstructive archeology?
+](https://www.theatlantic.com/science/archive/2016/06/can-neuroscience-understand-donkey-kong-let-alone-a-brain/485177/)", research that pointed out that our techniques for understanding brains by looking at the hardware are woefully inadequate analogues for understanding similarly complex digital processes by looking strictly at their circuit boards.<sup>11</sup> If a data center goes down, what do we understand from the circuit boards? Are the programs -- stored as electron charge configurations -- readable through any form of technical, reconstructive archeology?
 
 The oldest recorded audio recordings -- dating back to 'phonautographs' in the 1850s -- were recently reconstructed with some pretty clever physics: 
 
