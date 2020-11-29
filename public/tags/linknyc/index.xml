@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LinkNYC on Error States</title>
+    <link>https://errorstates.com/tags/linknyc/</link>
+    <description>Recent content in LinkNYC on Error States</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Nov 2020 12:34:06 -0400</lastBuildDate>
+    
+	<atom:link href="https://errorstates.com/tags/linknyc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>012 - Link NYC, Part 2</title>
+      <link>https://errorstates.com/posts/012-link-nyc-part-2/</link>
+      <pubDate>Fri, 27 Nov 2020 12:34:06 -0400</pubDate>
+      
+      <guid>https://errorstates.com/posts/012-link-nyc-part-2/</guid>
+      <description>A few new additions to the Weathered Tech x LinkNYC canon. They remind me of the famous opening lines of Anna Karenina: &amp;lsquo;Happy families are all alike; every unhappy family is unhappy in its own way.&amp;rsquo; Perhaps the new tag line for ErrorStates should be, &amp;lsquo;Working technologies are all alike; but every technology is broken in its own way.&amp;rsquo; [Continue Reading]</description>
+    </item>
+    
+  </channel>
+</rss>

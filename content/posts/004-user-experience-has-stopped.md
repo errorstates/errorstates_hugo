@@ -8,7 +8,7 @@ description = "I went out to a Chinese restaurant with a friend and their back-o
 
 summary = "I went out to a Chinese restaurant with a friend and their back-of-house online order processing setup was in the middle of the hallway, right across from the bathroom. Small New York restaurants, amiright? They had the whole wall covered in different iPads and android tablets. Every company they worked with had a seperate tablet that they needed to manage. My friend -- who had worked at Seamless for a small stretch -- explained that each company tends to send out a free, dedicated (read: locked down) tablet to the restaurants for order processing. [Continue Reading] "
 
-tags = ["Tablet","Screen","Android","User Experience"]
+tags = ["Tablet","Screen","Android","User Experience","Food"]
 
 keywords = []
 
