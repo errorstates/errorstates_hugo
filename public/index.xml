@@ -6,10 +6,19 @@
     <description>Recent content on Error States</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2020 12:37:06 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2020 12:15:57 -0400</lastBuildDate>
     
 	<atom:link href="https://errorstates.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Roundup 009, October-November 2020</title>
+      <link>https://errorstates.com/posts/r009-october-november-2020/</link>
+      <pubDate>Sat, 28 Nov 2020 12:15:57 -0400</pubDate>
+      
+      <guid>https://errorstates.com/posts/r009-october-november-2020/</guid>
+      <description>I spent most of November road tripping across the country, so this roundup included both October and November news on healthcare devices, data bias, machine vision, and broken cars. [Continue Reading]</description>
+    </item>
     
     <item>
       <title>015 - The Building Glitches</title>
