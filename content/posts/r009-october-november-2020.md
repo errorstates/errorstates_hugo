@@ -14,12 +14,12 @@ tags = ["Roundup","Data Bias","Healthcare","Devices"]
     name = "Roman"
 
 [image]
-    src = "/images/roundups/r009.jpg"
+    src = "/images/roundups/r010.jpg"
 +++
 
 !["Roundup"](/images/roundups/r009.jpg)
 
-# Roundup, October-November 2020
+# Roundup, January 2021
 
 I spent most of November road tripping across the country, so this roundup included both October and November materials.
 
