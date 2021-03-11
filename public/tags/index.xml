@@ -6,10 +6,82 @@
     <description>Recent content in Tags on Error States</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Feb 2021 12:37:06 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 01 Mar 2021 20:34:03 -0500</lastBuildDate>
     
 	<atom:link href="https://errorstates.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Season 2</title>
+      <link>https://errorstates.com/tags/season-2/</link>
+      <pubDate>Mon, 01 Mar 2021 20:34:03 -0500</pubDate>
+      
+      <guid>https://errorstates.com/tags/season-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>https://errorstates.com/tags/ai/</link>
+      <pubDate>Sun, 28 Feb 2021 20:34:03 -0500</pubDate>
+      
+      <guid>https://errorstates.com/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Error Handling</title>
+      <link>https://errorstates.com/tags/error-handling/</link>
+      <pubDate>Sun, 28 Feb 2021 20:34:03 -0500</pubDate>
+      
+      <guid>https://errorstates.com/tags/error-handling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FAANG</title>
+      <link>https://errorstates.com/tags/faang/</link>
+      <pubDate>Sun, 28 Feb 2021 20:34:03 -0500</pubDate>
+      
+      <guid>https://errorstates.com/tags/faang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hacked</title>
+      <link>https://errorstates.com/tags/hacked/</link>
+      <pubDate>Sun, 28 Feb 2021 20:34:03 -0500</pubDate>
+      
+      <guid>https://errorstates.com/tags/hacked/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Healthcare</title>
+      <link>https://errorstates.com/tags/healthcare/</link>
+      <pubDate>Sun, 28 Feb 2021 20:34:03 -0500</pubDate>
+      
+      <guid>https://errorstates.com/tags/healthcare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://errorstates.com/tags/machine-learning/</link>
+      <pubDate>Sun, 28 Feb 2021 20:34:03 -0500</pubDate>
+      
+      <guid>https://errorstates.com/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Politics</title>
+      <link>https://errorstates.com/tags/politics/</link>
+      <pubDate>Sun, 28 Feb 2021 20:34:03 -0500</pubDate>
+      
+      <guid>https://errorstates.com/tags/politics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Administration</title>
@@ -102,15 +174,6 @@
     </item>
     
     <item>
-      <title>AI</title>
-      <link>https://errorstates.com/tags/ai/</link>
-      <pubDate>Sun, 03 Jan 2021 20:34:03 -0500</pubDate>
-      
-      <guid>https://errorstates.com/tags/ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>APIs</title>
       <link>https://errorstates.com/tags/apis/</link>
       <pubDate>Sun, 03 Jan 2021 20:34:03 -0500</pubDate>
@@ -120,29 +183,11 @@
     </item>
     
     <item>
-      <title>Error Handling</title>
-      <link>https://errorstates.com/tags/error-handling/</link>
-      <pubDate>Sun, 03 Jan 2021 20:34:03 -0500</pubDate>
-      
-      <guid>https://errorstates.com/tags/error-handling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ethics</title>
       <link>https://errorstates.com/tags/ethics/</link>
       <pubDate>Sun, 03 Jan 2021 20:34:03 -0500</pubDate>
       
       <guid>https://errorstates.com/tags/ethics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hacked</title>
-      <link>https://errorstates.com/tags/hacked/</link>
-      <pubDate>Sun, 03 Jan 2021 20:34:03 -0500</pubDate>
-      
-      <guid>https://errorstates.com/tags/hacked/</guid>
       <description></description>
     </item>
     
@@ -161,15 +206,6 @@
       <pubDate>Sat, 28 Nov 2020 12:15:57 -0400</pubDate>
       
       <guid>https://errorstates.com/tags/devices/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Healthcare</title>
-      <link>https://errorstates.com/tags/healthcare/</link>
-      <pubDate>Sat, 28 Nov 2020 12:15:57 -0400</pubDate>
-      
-      <guid>https://errorstates.com/tags/healthcare/</guid>
       <description></description>
     </item>
     
@@ -287,15 +323,6 @@
       <pubDate>Sun, 27 Sep 2020 12:34:06 -0400</pubDate>
       
       <guid>https://errorstates.com/tags/preservation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://errorstates.com/tags/machine-learning/</link>
-      <pubDate>Sat, 29 Aug 2020 12:15:57 -0400</pubDate>
-      
-      <guid>https://errorstates.com/tags/machine-learning/</guid>
       <description></description>
     </item>
     

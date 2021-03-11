@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Season 2 on Error States</title>
+    <link>https://errorstates.com/tags/season-2/</link>
+    <description>Recent content in Season 2 on Error States</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Mar 2021 20:34:03 -0500</lastBuildDate>
+    
+	<atom:link href="https://errorstates.com/tags/season-2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducing Season 2</title>
+      <link>https://errorstates.com/posts/introducing-season-2/</link>
+      <pubDate>Mon, 01 Mar 2021 20:34:03 -0500</pubDate>
+      
+      <guid>https://errorstates.com/posts/introducing-season-2/</guid>
+      <description>This is an announcement for season 2 of error states. This season includes a fresh new logo! More roundups! More content! Here&amp;rsquo;s to another year of chronicling learnings at the point of where things break. [Continue Reading]</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -102,10 +102,10 @@ p {
 } 
 
 a {
-	color: inherit;
+	color: #379de2;
 	text-decoration:none;
 	transition: background 0.3s;
-	border-bottom: 2px dashed #37474f;
+	border-bottom: 1px dashed #cc00ff;
 	&:hover {
 		border-color: $main-color;
 	}
@@ -127,6 +127,7 @@ a {
 
 li {
 	margin-top: 0.25em;
+    font-family: Arial;
 }
 
 pre, code {
@@ -328,6 +329,7 @@ blockquote {
 
 	&__title {
 		text-align: left;
+        color: black !important;
 	}
 	.button {
 		display: block;

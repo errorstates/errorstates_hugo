@@ -6,10 +6,28 @@
     <description>Recent content on Error States</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Feb 2021 12:37:06 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 01 Mar 2021 20:34:03 -0500</lastBuildDate>
     
 	<atom:link href="https://errorstates.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introducing Season 2</title>
+      <link>https://errorstates.com/posts/introducing-season-2/</link>
+      <pubDate>Mon, 01 Mar 2021 20:34:03 -0500</pubDate>
+      
+      <guid>https://errorstates.com/posts/introducing-season-2/</guid>
+      <description>This is an announcement for season 2 of error states. This season includes a fresh new logo! More roundups! More content! Here&amp;rsquo;s to another year of chronicling learnings at the point of where things break. [Continue Reading]</description>
+    </item>
+    
+    <item>
+      <title>Error States Roundup 011, January-February 2020</title>
+      <link>https://errorstates.com/posts/r011-january-february-2021/</link>
+      <pubDate>Sun, 28 Feb 2021 20:34:03 -0500</pubDate>
+      
+      <guid>https://errorstates.com/posts/r011-january-february-2021/</guid>
+      <description>Well, January and February were interested, to say the least. For posterity, I&amp;rsquo;ve rounded up some of the more interesting things to come out related to the intersection of error handling and politics&amp;hellip; as well as updates on the healthcare-x-machine-learning side of things and bitcoin woes. [Continue Reading]</description>
+    </item>
     
     <item>
       <title>017 - At Ikea</title>
@@ -31,10 +49,10 @@
     
     <item>
       <title>Roundup 010, December 2020</title>
-      <link>https://errorstates.com/posts/r010-december-2020/</link>
+      <link>https://errorstates.com/posts/r010-december-2020-copy/</link>
       <pubDate>Sun, 03 Jan 2021 20:34:03 -0500</pubDate>
       
-      <guid>https://errorstates.com/posts/r010-december-2020/</guid>
+      <guid>https://errorstates.com/posts/r010-december-2020-copy/</guid>
       <description>This is the preview text. [Continue Reading]</description>
     </item>
     

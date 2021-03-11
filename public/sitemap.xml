@@ -1,6 +1,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>https://errorstates.com/</loc>
+        <lastmod>2021-03-01T20:34:03-05:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/posts/introducing-season-2/</loc>
+        <lastmod>2021-03-01T20:34:03-05:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/posts/</loc>
+        <lastmod>2021-03-01T20:34:03-05:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/season-2/</loc>
+        <lastmod>2021-03-01T20:34:03-05:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/</loc>
+        <lastmod>2021-03-01T20:34:03-05:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/ai/</loc>
+        <lastmod>2021-02-28T20:34:03-05:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/error-handling/</loc>
+        <lastmod>2021-02-28T20:34:03-05:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/posts/r011-january-february-2021/</loc>
+        <lastmod>2021-02-28T20:34:03-05:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/faang/</loc>
+        <lastmod>2021-02-28T20:34:03-05:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/hacked/</loc>
+        <lastmod>2021-02-28T20:34:03-05:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/healthcare/</loc>
+        <lastmod>2021-02-28T20:34:03-05:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/machine-learning/</loc>
+        <lastmod>2021-02-28T20:34:03-05:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/politics/</loc>
+        <lastmod>2021-02-28T20:34:03-05:00</lastmod>
+    </url>
+    
+    <url>
         <loc>https://errorstates.com/posts/017-at-ikea/</loc>
         <lastmod>2021-02-28T12:37:06-04:00</lastmod>
     </url>
@@ -11,17 +76,7 @@
     </url>
     
     <url>
-        <loc>https://errorstates.com/</loc>
-        <lastmod>2021-02-28T12:37:06-04:00</lastmod>
-    </url>
-    
-    <url>
         <loc>https://errorstates.com/tags/finance/</loc>
-        <lastmod>2021-02-28T12:37:06-04:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/posts/</loc>
         <lastmod>2021-02-28T12:37:06-04:00</lastmod>
     </url>
     
@@ -32,11 +87,6 @@
     
     <url>
         <loc>https://errorstates.com/tags/screen/</loc>
-        <lastmod>2021-02-28T12:37:06-04:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/tags/</loc>
         <lastmod>2021-02-28T12:37:06-04:00</lastmod>
     </url>
     
@@ -76,17 +126,7 @@
     </url>
     
     <url>
-        <loc>https://errorstates.com/tags/ai/</loc>
-        <lastmod>2021-01-03T20:34:03-05:00</lastmod>
-    </url>
-    
-    <url>
         <loc>https://errorstates.com/tags/apis/</loc>
-        <lastmod>2021-01-03T20:34:03-05:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/tags/error-handling/</loc>
         <lastmod>2021-01-03T20:34:03-05:00</lastmod>
     </url>
     
@@ -96,12 +136,7 @@
     </url>
     
     <url>
-        <loc>https://errorstates.com/tags/hacked/</loc>
-        <lastmod>2021-01-03T20:34:03-05:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/posts/r010-december-2020/</loc>
+        <loc>https://errorstates.com/posts/r010-december-2020-copy/</loc>
         <lastmod>2021-01-03T20:34:03-05:00</lastmod>
     </url>
     
@@ -112,11 +147,6 @@
     
     <url>
         <loc>https://errorstates.com/tags/devices/</loc>
-        <lastmod>2020-11-28T12:15:57-04:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/tags/healthcare/</loc>
         <lastmod>2020-11-28T12:15:57-04:00</lastmod>
     </url>
     
@@ -213,11 +243,6 @@
     <url>
         <loc>https://errorstates.com/tags/preservation/</loc>
         <lastmod>2020-09-27T12:34:06-04:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/tags/machine-learning/</loc>
-        <lastmod>2020-08-29T12:15:57-04:00</lastmod>
     </url>
     
     <url>
