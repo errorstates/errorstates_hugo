@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bank on Error States</title>
+    <link>https://errorstates.com/tags/bank/</link>
+    <description>Recent content in Bank on Error States</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Jul 2021 14:52:36 -0600</lastBuildDate>
+    
+	<atom:link href="https://errorstates.com/tags/bank/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>022 - Bank Error</title>
+      <link>https://errorstates.com/posts/022-bank-error/</link>
+      <pubDate>Sun, 11 Jul 2021 14:52:36 -0600</pubDate>
+      
+      <guid>https://errorstates.com/posts/022-bank-error/</guid>
+      <description>My wife and I debated for some time as to whether this qualified as an error state. &amp;lsquo;But it&amp;rsquo;s not entirely broken!&amp;rdquo; she argued. &amp;lsquo;But it &lt;em&gt;is&lt;/em&gt;!&amp;rdquo; I countered right back. Not every error state needs to be an example of something visibly broken. There are good error states. That&amp;rsquo;s one of the joys of looking out for them: what does the correct way to engage with someone look like, when the thing itself is out of order? Do you tape a piece of paper? Do you design for the error? 404 and 503 screens on websites are good examples of such recurring problems that most website themes have an explicit design for them. [Continue Reading]</description>
+    </item>
+    
+  </channel>
+</rss>

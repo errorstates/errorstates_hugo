@@ -6,10 +6,127 @@
     <description>Recent content in Tags on Error States</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Mar 2021 20:34:03 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jul 2021 14:52:36 -0600</lastBuildDate>
     
 	<atom:link href="https://errorstates.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bank</title>
+      <link>https://errorstates.com/tags/bank/</link>
+      <pubDate>Sun, 11 Jul 2021 14:52:36 -0600</pubDate>
+      
+      <guid>https://errorstates.com/tags/bank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chase</title>
+      <link>https://errorstates.com/tags/chase/</link>
+      <pubDate>Sun, 11 Jul 2021 14:52:36 -0600</pubDate>
+      
+      <guid>https://errorstates.com/tags/chase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Good Error</title>
+      <link>https://errorstates.com/tags/good-error/</link>
+      <pubDate>Sun, 11 Jul 2021 14:52:36 -0600</pubDate>
+      
+      <guid>https://errorstates.com/tags/good-error/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physical</title>
+      <link>https://errorstates.com/tags/physical/</link>
+      <pubDate>Sun, 11 Jul 2021 14:52:36 -0600</pubDate>
+      
+      <guid>https://errorstates.com/tags/physical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Screen</title>
+      <link>https://errorstates.com/tags/screen/</link>
+      <pubDate>Sun, 11 Jul 2021 14:52:36 -0600</pubDate>
+      
+      <guid>https://errorstates.com/tags/screen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LCD</title>
+      <link>https://errorstates.com/tags/lcd/</link>
+      <pubDate>Sun, 11 Jul 2021 14:52:13 -0600</pubDate>
+      
+      <guid>https://errorstates.com/tags/lcd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Starbucks</title>
+      <link>https://errorstates.com/tags/starbucks/</link>
+      <pubDate>Sun, 11 Jul 2021 14:52:13 -0600</pubDate>
+      
+      <guid>https://errorstates.com/tags/starbucks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weathering</title>
+      <link>https://errorstates.com/tags/weathering/</link>
+      <pubDate>Sun, 11 Jul 2021 14:52:13 -0600</pubDate>
+      
+      <guid>https://errorstates.com/tags/weathering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Store</title>
+      <link>https://errorstates.com/tags/store/</link>
+      <pubDate>Sun, 11 Jul 2021 14:51:58 -0600</pubDate>
+      
+      <guid>https://errorstates.com/tags/store/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sample</title>
+      <link>https://errorstates.com/tags/sample/</link>
+      <pubDate>Sun, 11 Jul 2021 14:51:35 -0600</pubDate>
+      
+      <guid>https://errorstates.com/tags/sample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two</title>
+      <link>https://errorstates.com/tags/two/</link>
+      <pubDate>Sun, 11 Jul 2021 14:51:35 -0600</pubDate>
+      
+      <guid>https://errorstates.com/tags/two/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infrastructure</title>
+      <link>https://errorstates.com/tags/infrastructure/</link>
+      <pubDate>Sun, 11 Jul 2021 14:51:04 -0600</pubDate>
+      
+      <guid>https://errorstates.com/tags/infrastructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phones</title>
+      <link>https://errorstates.com/tags/phones/</link>
+      <pubDate>Sun, 11 Jul 2021 14:51:04 -0600</pubDate>
+      
+      <guid>https://errorstates.com/tags/phones/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Season 2</title>
@@ -107,15 +224,6 @@
       <pubDate>Sun, 28 Feb 2021 12:37:06 -0400</pubDate>
       
       <guid>https://errorstates.com/tags/remote-device-management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Screen</title>
-      <link>https://errorstates.com/tags/screen/</link>
-      <pubDate>Sun, 28 Feb 2021 12:37:06 -0400</pubDate>
-      
-      <guid>https://errorstates.com/tags/screen/</guid>
       <description></description>
     </item>
     
@@ -255,7 +363,7 @@
     </item>
     
     <item>
-      <title>Kiosk</title>
+      <title>kiosk</title>
       <link>https://errorstates.com/tags/kiosk/</link>
       <pubDate>Fri, 27 Nov 2020 12:37:06 -0400</pubDate>
       
@@ -363,15 +471,6 @@
     </item>
     
     <item>
-      <title>Infrastructure</title>
-      <link>https://errorstates.com/tags/infrastructure/</link>
-      <pubDate>Sat, 01 Aug 2020 08:57:00 -0400</pubDate>
-      
-      <guid>https://errorstates.com/tags/infrastructure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>email</title>
       <link>https://errorstates.com/tags/email/</link>
       <pubDate>Fri, 03 Jul 2020 16:00:29 -0400</pubDate>
@@ -431,15 +530,6 @@
       <pubDate>Fri, 03 Jul 2020 08:57:00 -0400</pubDate>
       
       <guid>https://errorstates.com/tags/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Phones</title>
-      <link>https://errorstates.com/tags/phones/</link>
-      <pubDate>Fri, 03 Jul 2020 08:57:00 -0400</pubDate>
-      
-      <guid>https://errorstates.com/tags/phones/</guid>
       <description></description>
     </item>
     
@@ -674,15 +764,6 @@
       <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://errorstates.com/tags/broken/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Physical</title>
-      <link>https://errorstates.com/tags/physical/</link>
-      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://errorstates.com/tags/physical/</guid>
       <description></description>
     </item>
     

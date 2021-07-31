@@ -4,9 +4,9 @@ date = "2021-02-28T12:37:06-04:00"
 publishdate = "2021-02-28T12:37:06-04:00"
 draft = false
 
-description = "Spotted at an Ikea in Denver, Colorado. Coincidently, there seems to be only one IKEA in Colorado. Whenever a number of different screens come together, there will be some inevitable drift towards being out-of-sync at some point."
+description = "Spotted at an Ikea in Denver, Colorado. Coincidentally, there seems to be only one IKEA in Colorado. Whenever a number of different screens come together, there will be some inevitable drift towards being out-of-sync at some point."
 
-summary = "Spotted at an Ikea in Denver, Colorado. Coincidently, there seems to be only one IKEA in Colorado. Whenever a number of different screens come together, there will be some inevitable drift towards being out-of-sync at some point. [Continue Reading]"
+summary = "Spotted at an Ikea in Denver, Colorado. Coincidentally, there seems to be only one IKEA in Colorado. Whenever a number of different screens come together, there will be some inevitable drift towards being out-of-sync at some point. [Continue Reading]"
 
 tags = ["TV","Screen","UX","Administration","Finance","Remote Device Management"]
 
@@ -21,7 +21,7 @@ tags = ["TV","Screen","UX","Administration","Finance","Remote Device Management"
 
 ![Ikea - broken screens](/images/017/ikea-0.jpg)
 
-Spotted at an Ikea in Denver, Colorado. Coincidently, there seems to be only one IKEA in Colorado. Whenever a number of different screens come together, there will be some inevitable drift towards being out-of-sync at some point. This drift can be caused by internal components (a screen burning in or out), external components (wire connections), technology (misconfigurations), or any other reason. 
+Spotted at an Ikea in Denver, Colorado. Coincidentally, there seems to be only one IKEA in Colorado. Whenever a number of different screens come together, there will be some inevitable drift towards being out-of-sync at some point. This drift can be caused by internal components (a screen burning in or out), external components (wire connections), technology (misconfigurations), or any other reason. 
 
 ![Ikea - broken screens](/images/017/ikea-1.jpg)
 
