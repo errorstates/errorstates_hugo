@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Error States</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Jul 2021 14:52:55 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jul 2021 14:54:05 -0600</lastBuildDate>
     
 	<atom:link href="https://errorstates.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>024 - Integration Testing</title>
+      <link>https://errorstates.com/posts/024-integration-testing/</link>
+      <pubDate>Sun, 11 Jul 2021 14:54:05 -0600</pubDate>
+      
+      <guid>https://errorstates.com/posts/024-integration-testing/</guid>
+      <description>On June 17th, HBO accidentally sent out an email meant for only internal developer audiences. This email was an integration test, confirming that the code was running as intended. Except, they sent it out to &lt;em&gt;everyone&lt;/em&gt;. &amp;hellip; And what is an integration test anyway? [Continue Reading]</description>
+    </item>
     
     <item>
       <title>023 - Outdoor Advertising</title>

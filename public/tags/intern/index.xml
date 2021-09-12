@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Email on Error States</title>
-    <link>https://errorstates.com/tags/email/</link>
-    <description>Recent content in Email on Error States</description>
+    <title>Intern on Error States</title>
+    <link>https://errorstates.com/tags/intern/</link>
+    <description>Recent content in Intern on Error States</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Jul 2021 14:54:05 -0600</lastBuildDate>
     
-	<atom:link href="https://errorstates.com/tags/email/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://errorstates.com/tags/intern/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://errorstates.com/posts/024-integration-testing/</guid>
       <description>On June 17th, HBO accidentally sent out an email meant for only internal developer audiences. This email was an integration test, confirming that the code was running as intended. Except, they sent it out to &lt;em&gt;everyone&lt;/em&gt;. &amp;hellip; And what is an integration test anyway? [Continue Reading]</description>
-    </item>
-    
-    <item>
-      <title>010 - Dear %%First Name%%</title>
-      <link>https://errorstates.com/posts/010-dear-first-name/</link>
-      <pubDate>Fri, 03 Jul 2020 16:00:29 -0400</pubDate>
-      
-      <guid>https://errorstates.com/posts/010-dear-first-name/</guid>
-      <description>Marketing is all about personalization, but sometimes that goes wrong. [Continue Reading]</description>
     </item>
     
   </channel>

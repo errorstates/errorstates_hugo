@@ -1,8 +1,8 @@
 +++
 title = "024 - Integration Testing"
 date = "2021-07-11T14:54:05-06:00"
-publishdate = "2021-08-12T14:54:05-06:00"
-draft = true
+publishdate = "2021-09-05T18:48:42-06:00"
+draft = false
 
 description = "On June 17th, HBO accidentally sent out an email meant for only internal developer audiences. This email was an integration test, confirming that the code was running as intended. Except, they sent it out to _everyone_. ... And what is an integration test anyway?"
 
