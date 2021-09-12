@@ -4,7 +4,7 @@ date = "2021-07-11T14:52:13-06:00"
 publishdate = "2021-07-11T14:52:13-06:00"
 draft = false
 
-description = "across the entire country I find drive-through screens with odd but consistent weathering patterns like a fungal infection that targets only a specific type of screen. I've seen it in Arizona, Colorado, North Carolina, California, the Dakotas, and New Jersey. I wonder if the vendor from whom they buy these screens is aware of the problem?"
+description = "Across the entire country I find drive-through screens with odd but consistent weathering patterns like a fungal infection that targets only a specific type of screen. I've seen it in Arizona, Colorado, North Carolina, California, the Dakotas, and New Jersey. I wonder if the vendor from whom they buy these screens is aware of the problem?"
 
 summary = "My last year in high school and a few years through college, I worked at Starbucks. It was a pretty great job as far as customer service went. My town happened to have one of the first Starbucks' with a hot-food oven _and_ a drive-through.  [Continue Reading]"
 
