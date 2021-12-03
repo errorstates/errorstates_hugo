@@ -6,10 +6,55 @@
     <description>Recent content in Tags on Error States</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Jul 2021 14:54:05 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 05 Sep 2021 18:48:42 -0600</lastBuildDate>
     
 	<atom:link href="https://errorstates.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AdTech</title>
+      <link>https://errorstates.com/tags/adtech/</link>
+      <pubDate>Sun, 05 Sep 2021 18:48:42 -0600</pubDate>
+      
+      <guid>https://errorstates.com/tags/adtech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bad Patterns</title>
+      <link>https://errorstates.com/tags/bad-patterns/</link>
+      <pubDate>Sun, 05 Sep 2021 18:48:42 -0600</pubDate>
+      
+      <guid>https://errorstates.com/tags/bad-patterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consumer Engagement</title>
+      <link>https://errorstates.com/tags/consumer-engagement/</link>
+      <pubDate>Sun, 05 Sep 2021 18:48:42 -0600</pubDate>
+      
+      <guid>https://errorstates.com/tags/consumer-engagement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Experience</title>
+      <link>https://errorstates.com/tags/user-experience/</link>
+      <pubDate>Sun, 05 Sep 2021 18:48:42 -0600</pubDate>
+      
+      <guid>https://errorstates.com/tags/user-experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UX</title>
+      <link>https://errorstates.com/tags/ux/</link>
+      <pubDate>Sun, 05 Sep 2021 18:48:42 -0600</pubDate>
+      
+      <guid>https://errorstates.com/tags/ux/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Email</title>
@@ -309,15 +354,6 @@
     </item>
     
     <item>
-      <title>UX</title>
-      <link>https://errorstates.com/tags/ux/</link>
-      <pubDate>Sun, 28 Feb 2021 12:37:06 -0400</pubDate>
-      
-      <guid>https://errorstates.com/tags/ux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Aesthetic</title>
       <link>https://errorstates.com/tags/aesthetic/</link>
       <pubDate>Sat, 27 Feb 2021 12:37:06 -0400</pubDate>
@@ -435,7 +471,7 @@
     </item>
     
     <item>
-      <title>kiosk</title>
+      <title>Kiosk</title>
       <link>https://errorstates.com/tags/kiosk/</link>
       <pubDate>Fri, 27 Nov 2020 12:37:06 -0400</pubDate>
       
@@ -800,15 +836,6 @@
       <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://errorstates.com/tags/android/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>User Experience</title>
-      <link>https://errorstates.com/tags/user-experience/</link>
-      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://errorstates.com/tags/user-experience/</guid>
       <description></description>
     </item>
     

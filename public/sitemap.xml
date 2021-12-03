@@ -1,17 +1,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>https://errorstates.com/posts/025-bad-ads/</loc>
+        <lastmod>2021-09-05T18:48:42-06:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/adtech/</loc>
+        <lastmod>2021-09-05T18:48:42-06:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/bad-patterns/</loc>
+        <lastmod>2021-09-05T18:48:42-06:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/consumer-engagement/</loc>
+        <lastmod>2021-09-05T18:48:42-06:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/</loc>
+        <lastmod>2021-09-05T18:48:42-06:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/posts/</loc>
+        <lastmod>2021-09-05T18:48:42-06:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/</loc>
+        <lastmod>2021-09-05T18:48:42-06:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/user-experience/</loc>
+        <lastmod>2021-09-05T18:48:42-06:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/ux/</loc>
+        <lastmod>2021-09-05T18:48:42-06:00</lastmod>
+    </url>
+    
+    <url>
         <loc>https://errorstates.com/posts/024-integration-testing/</loc>
         <lastmod>2021-07-11T14:54:05-06:00</lastmod>
     </url>
     
     <url>
         <loc>https://errorstates.com/tags/email/</loc>
-        <lastmod>2021-07-11T14:54:05-06:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/</loc>
         <lastmod>2021-07-11T14:54:05-06:00</lastmod>
     </url>
     
@@ -26,17 +66,7 @@
     </url>
     
     <url>
-        <loc>https://errorstates.com/posts/</loc>
-        <lastmod>2021-07-11T14:54:05-06:00</lastmod>
-    </url>
-    
-    <url>
         <loc>https://errorstates.com/tags/software/</loc>
-        <lastmod>2021-07-11T14:54:05-06:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/tags/</loc>
         <lastmod>2021-07-11T14:54:05-06:00</lastmod>
     </url>
     
@@ -227,11 +257,6 @@
     
     <url>
         <loc>https://errorstates.com/tags/tv/</loc>
-        <lastmod>2021-02-28T12:37:06-04:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/tags/ux/</loc>
         <lastmod>2021-02-28T12:37:06-04:00</lastmod>
     </url>
     
@@ -607,11 +632,6 @@
     
     <url>
         <loc>https://errorstates.com/tags/android/</loc>
-        <lastmod>2019-12-20T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/tags/user-experience/</loc>
         <lastmod>2019-12-20T00:00:00+00:00</lastmod>
     </url>
     

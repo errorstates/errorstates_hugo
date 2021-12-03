@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Consumer Engagement on Error States</title>
+    <link>https://errorstates.com/tags/consumer-engagement/</link>
+    <description>Recent content in Consumer Engagement on Error States</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Sep 2021 18:48:42 -0600</lastBuildDate>
+    
+	<atom:link href="https://errorstates.com/tags/consumer-engagement/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>025 - On AdTech and Bad Engagement Patterns</title>
+      <link>https://errorstates.com/posts/025-bad-ads/</link>
+      <pubDate>Sun, 05 Sep 2021 18:48:42 -0600</pubDate>
+      
+      <guid>https://errorstates.com/posts/025-bad-ads/</guid>
+      <description>Who would want to go through four or five clicks just to see the headline to an article they were trying to read? It&amp;rsquo;s about the principle of the thing &amp;ndash; if you can&amp;rsquo;t read an article or browse the internet without resorting to ad blockers and hacks and different workaround, in an ever-evolving battle against invasive adtech and intrusive engagement patterns&amp;hellip; well then, something&amp;rsquo;s broken. [Continue Reading]</description>
+    </item>
+    
+  </channel>
+</rss>
