@@ -16,10 +16,6 @@ tags = ["APIs","Error Handling","AI","Ethics","Hacked","Aesthetics"]
     src = "/images/roundups/r010.jpg"
 +++
 
-!["Roundup"](/images/roundups/r010.jpg)
-
-# Roundup, December 2021
-
 This month the SolarWind hack, FireEye hack, and Timnit Gebru's firing made most of the news. 
 
 ---

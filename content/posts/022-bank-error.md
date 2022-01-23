@@ -17,10 +17,6 @@ tags = ["Chase","Bank","Physical","Good Error","Screen"]
     src = "/images/022/022-chase-1.jpg"
 +++
 
-# 022 - Bank Error
-
-!["Image Alt Text"](/images/022/022-chase-1.jpg)
-
 My wife and I debated for some time as to whether this qualified as an error state. "But it's not entirely broken!" she argued. "But it _is_!" I countered right back.
 
 Not every error state needs to be an example of something visibly broken. There are good error states. That's one of the joys of looking out for them: what does the correct way to engage with someone look like, when the thing itself is out of order? Do you tape a piece of paper? Do you design for the error? 404 and 503 screens on websites are good examples of such recurring problems that most website themes have an explicit design for them.

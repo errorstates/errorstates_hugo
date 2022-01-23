@@ -17,10 +17,6 @@ tags = ["Sample","Two"]
     src = "/images/019/019-les-mills-4.jpg"
 +++
 
-# 019 - Too Much of a Workout
-
-!["Les Mills Has Stopped, 1"](/images/019/019-les-mills-1.jpg)
-
 Judging by the buttons, it looks like it is running a flavor of `Android`. 
 
 !["Les Mills Has Stopped, 2"](/images/019/019-les-mills-2.jpg)

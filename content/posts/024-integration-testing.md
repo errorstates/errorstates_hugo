@@ -17,10 +17,6 @@ tags = ["Testing","Software","Email","HBO","Intern"]
     src = "/images/024/024-hbo-1.jpg"
 +++
 
-# 024 - Integration Testing
-
-!["Integration testing"](/images/024/024-hbo-1.jpg)
-
 On June 17th, HBO accidentally sent out an email meant for only internal developer audiences. This email was an integration test, confirming that the code was running as intended. 
 
 Except, they sent it out to _everyone_.

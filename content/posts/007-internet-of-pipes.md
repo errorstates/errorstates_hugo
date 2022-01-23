@@ -16,11 +16,7 @@ tags = ["Internet","Pipes","Google","SaaS","Digital"]
     src = "/images/007-ga-hero.jpg"
 +++
 
-# 007 - Internet of Pipes
-
 !["Google Analytics isn't working."](/images/007-ga-error2.jpg)
-
-## April 04, 2020
 
 Well now. 
 

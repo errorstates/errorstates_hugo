@@ -17,10 +17,6 @@ tags = ["Food","Displays","Menus","Tablet","Kiosk","Hardware","Internet"]
     src = "/images/013/IMG_3707.jpg"
 +++
 
-# 013 - The Future of Fast Food
-
-![The future of food](/images/013/IMG_3707.jpg)
-
 Spotted in a "Plant Power" in Riverside, California. 
 
 ![Internet explorer](/images/013/IMG_3706.jpg)

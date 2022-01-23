@@ -17,10 +17,6 @@ tags = ["Digital Media","Archeology","Preservation"]
     src = "/images/011-cover.png"
 +++
 
-# 011 - Preserving Digital Media
-
-![Preserving digital media](/images/011-cover.png)
-
 In [**A \*New\* Program for Graphic Design**](https://a-new-program-for-graphic-design.org), David Reinfurt recounts a trip he made to MIT while researching the work of Muriel Cooper, an artist and researcher who's work spanned neatly spanned the analog commercial production of art with early digital production:
 
 > We proceed by visiting the MIT Media Lab, where Muriel Cooper spent the last years of her working life, from 1985-1994, continuing the work of the Visible Language Workshop. I'm here to meet a graduate student who's procured a LaserDisk which includes some of the last work of the Workshop. With LaserDisk in hand, we spend the next hour or so trawling various sub basements of the Media Lab building searching for an analog LaserDisc player capable of playing the 20-year-old media format. As we enter more than one room containing stacks of outdated hardware, too difficult to repair, and rotting magnetic-tape formats whose chemical clocks are ticking, I am struck by the ways in which this recent past becomes so quickly inaccessible in a digital medium. In stark contrast to the piles of posters that provide a visceral record of the Center for Advanced Visual Studies, these dead media provide nothing tangible. (As much of Muriel Cooper's most important work was in a digital medium, I become more convinced that accounting for her work is critical - now.) <sup>1</sup>

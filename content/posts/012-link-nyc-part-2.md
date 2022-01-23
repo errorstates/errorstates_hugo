@@ -17,10 +17,6 @@ tags = ["LinkNYC","Hardware","Weathered Technology"]
     src = "/images/012/IMG_4210.jpg"
 +++
 
-# 012 - LinkNYC, Part 2
-
-![A punched out Kiosk](/images/012/IMG_4210.jpg)
-
 A few new additions to the "Weathered Tech x LinkNYC" canon. They remind me of the famous opening lines of Anna Karenina: "Happy families are all alike; every unhappy family is unhappy in its own way." Perhaps the new tagline for ErrorStates should be, "Working technologies are all alike; but every technology is broken in its own way."
 
 It's not quite true. Most broken technologies are actually _broken_ in the same way: you cannot interact with them because their fail state renders them 100% inoperable. But any excuse for a good quote, no?

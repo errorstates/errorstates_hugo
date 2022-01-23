@@ -22,10 +22,4 @@ keywords = []
     src = "/images/003-IMG_0747.jpg"
 +++
 
-# 003 - Elevator Out of Service
-
-!["Out of Service"](/images/003-IMG_0747.jpg)
-
-## January 17, 2020
-
 Sometimes there isn't much to say in the way of explanation.

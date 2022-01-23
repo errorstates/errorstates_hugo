@@ -22,13 +22,7 @@ keywords = []
     src = "/images/006-IMG_0700.jpg"
 +++
 
-# 006 - Maintenance Needed
-
-!["Broken Coca Cola Machine"](/images/006-IMG_0700.jpg)
-
 !["Zoomed in View"](/images/006-IMG_0700-detail.jpg)
-
-## January 8, 2020
 
 Not quite broken. A cola machine sits around, waiting to be maintained. Spotted at a movie theater. Someone must have opened it, started to work, and then - inevitable distracted - forgot about it without finishing the work. It was there when the movie started, it was there when the movie ended. The staff walk by, either not caring or not knowing what to do. 
 

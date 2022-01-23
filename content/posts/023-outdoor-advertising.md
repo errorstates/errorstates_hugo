@@ -17,10 +17,6 @@ tags = ["Screen","Retail","watchfire","Outdoors"]
     src = "/images/023/023-outdoor-ads-1.jpg"
 +++
 
-# 023 - Outdoor Advertising
-
-!["Broken Advertising"](/images/023/023-outdoor-ads-1.jpg)
-
 !["Broken Advertising"](/images/023/023-outdoor-ads-2.jpg)
 
 You drive down your local highway. Strip malls are to your left and right. You stop at a red light. To your left is a sign post, slightly weathered yet traditional -- it lists your Chipotle, your Firehouse Subs, your local T Mobile and AT&T stores, a local hardware store, and a few others. To your right -- well you can't really tell what's going on. Normally, you'll see a rotating screen of promotions -- not every store is listed. But today, it's fuzzy, flickering, and not working. It will stay like this for weeks, promoting the fact that not a single shop has control over the sign and the landlord (or technology provider) won't be around to fix it for days.

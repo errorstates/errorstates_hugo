@@ -16,10 +16,6 @@ tags = ["FAANG","Error Handling","AI","Machine Learning","Hacked","Politics","He
     src = "/images/roundups/r011.jpg"
 +++
 
-!["Roundup"](/images/roundups/r011.jpg)
-
-# Roundup, January-February 2021
-
 Well, January and February were interested, to say the least. For posterity, I've rounded up some of the more interesting things to come out related to the intersection of error handling and politics... as well as updates on the healthcare-x-machine-learning side of things and bitcoin woes.
 
 ---

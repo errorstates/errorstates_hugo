@@ -17,10 +17,6 @@ tags = ["Infrastructure","Phones"]
     src = "/images/018/018-old-phones.jpg"
 +++
 
-# 018 - Leftover Public Phones
-
-!["Old Phones"](/images/018/018-old-phones.jpg)
-
 Every so often, I come across an old pay phone. They're usually as raggedy as an old alley cat, broken, and left in the strangest places: parking lots, alley ways, an occasional main street.
 
 From [Forbes](https://www.forbes.com/sites/curtissilver/2020/03/03/toss-a-coin-to-your-payphone/?sh=1364ea27537c):

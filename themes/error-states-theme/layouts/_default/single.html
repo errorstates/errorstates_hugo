@@ -1,0 +1,9 @@
+{{ define "main" }}
+	<article class="content">
+        {{- partial "post/under-title.html" . -}}
+        {{ .Content }}
+        {{- partial "post/sign-up.html" . -}}
+		{{- partial "post/related-content.html" . -}}
+		{{- partial "post/comments.html" . -}}
+	</article>
+{{ end }}

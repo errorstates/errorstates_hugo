@@ -14,12 +14,8 @@ tags = ["AdTech","Consumer Engagement","Bad Patterns","User Experience", "UX"]
     name = "Roman"
 
 [image]
-    src = "../images/025/bad-ads.jpg"
+    src = "/images/025/bad-ads.jpg"
 +++
-
-# 025 - On AdTech and Bad Engagement Patterns
-
-!["Image Alt Text"](/images/025/bad-ads.jpg)
 
 This isn't an error state per se. But, it does highlight a form of _extremely_ poor design that might as well be an error. 
 

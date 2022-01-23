@@ -17,10 +17,6 @@ tags = ["kiosk","display","wrong angle"]
     src = "/images/009-IMG_0854.jpg"
 +++
 
-# 009 - All About Positioning
-
-!["All about positioning"](/images/009-IMG_0854.jpg)
-
 Good promotions are all about price, product, and... positioning. 
 
 But looks like they approached this one from... the wrong angle. 

@@ -20,8 +20,6 @@ keywords = []
 
 +++
 
-# Roundup, February 2020
-
 ## Tesla tricked into speeding by researchers using electrical tape
 [https://www.cbsnews.com/news/tesla-tricked-into-speeding-by-researchers-using-electrical-tape/](https://www.cbsnews.com/news/tesla-tricked-into-speeding-by-researchers-using-electrical-tape/)
 

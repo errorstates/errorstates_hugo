@@ -17,10 +17,6 @@ tags = ["Roundup","Data Bias","Healthcare","Devices"]
     src = "/images/roundups/r010.jpg"
 +++
 
-!["Roundup"](/images/roundups/r009.jpg)
-
-# Roundup, January 2021
-
 I spent most of November road tripping across the country, so this roundup included both October and November materials.
 
 ## Data Bias

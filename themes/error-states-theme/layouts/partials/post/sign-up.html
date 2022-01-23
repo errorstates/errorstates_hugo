@@ -1,0 +1,40 @@
+<div style="margin:50px auto 0px; width:75px;">
+        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+             viewBox="0 0 211 211" style="enable-background:new 0 0 211 211;" xml:space="preserve">
+        <style type="text/css">
+            .st0{fill:none;}
+            .st1{fill:none;stroke:#433D3F;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+        </style>
+        <g>
+            <rect x="-1" y="-1" class="st0" width="212" height="212"/>
+            <g>
+                <g>
+                    <polyline class="st1" points="102.1,149.9 34.6,149.9 34.2,149.9 101.7,82.5 34.2,82.5 101.7,15           "/>
+                    <polyline class="st1" points="115.6,188.2 183.1,120.7 115.6,120.7 167.4,69          "/>
+                    <polyline class="st1" points="89.5,188.2 143.1,134.6 142.6,134.6 75.1,134.6 74.7,134.6 142.2,67.2 74.7,67.2 127.3,14.5          "/>
+                </g>
+            </g>
+        </g>
+        </svg>
+</div>
+
+<hr style="border-bottom: dashed black 1px; border-top:none;border-left:none;border-right:none; margin:55px 0px;">
+
+    <div class="under-title__info" style="width:100%;">
+        {{ $taxonomy := "tags" }}
+        <h2>Filed Under:</h2>
+        <ul id="{{ $taxonomy }}">
+            {{ range .Page.Param $taxonomy }}
+                {{ $name := . }}
+                {{ with $.Site.GetPage (printf "/%s/%s" $taxonomy ($name | urlize)) }}
+                    <li class="tags-list"><a href="{{ .Permalink }}" data-rel="prefetch">{{ $name }}</a></li>
+                {{ end }}
+            {{ end }}
+        </ul>
+    </div>
+
+<hr style="border-bottom: dashed black 1px; border-top:none;border-left:none;border-right:none; margin:55px 0px;">
+
+<div style="width:100%;border:1px solid black; border-radius: 3px; margin:50px 0px 25px; padding:25px; font-size:25px; text-align:center; background:#d14;"> Find this interesting?<br>
+    >> <a href="https://buttondown.email/errorstates" style="color:white !important;">get an email when I publish something new</a> <<
+</div>

@@ -16,8 +16,4 @@ tags = ["Season 2"]
     src = "/images/season-2.jpg"
 +++
 
-!["Roundup"](/images/season-2.jpg)
-
-# Introducing Season 2
-
 This is an announcement for season 2 of error states. This season includes a fresh new logo! More roundups! More content! Here's to another year of chronicling learnings at the point of where things break.

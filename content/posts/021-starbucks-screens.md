@@ -17,10 +17,6 @@ tags = ["LCD","Screen","Weathering","Starbucks"]
     src = "/images/021/starbucks-1.jpg"
 +++
 
-# 021 - Starbucks Screens
-
-!["Image Alt Text"](/images/021/starbucks-1.jpg)
-
 My last year in high school and a few years through college, I worked at Starbucks. It was a pretty great job as far as customer service went. My town happened to have one of the first Starbucks' with a hot-food oven _and_ a drive-through. 
 
 My coworkers would put me on the drive-through window regularly. The radio made my voice much deeper than it actually was and I had a habit of drawing out and breathing deep into my words: "Heyyyyy there." For a lot of folks coming through the drive-through, the voice and the person they met at the window didn't match at all. Some coworkers joked that I sounded like a sex-line operator. "Hiiiiiiii.... What can I get for youuu?"

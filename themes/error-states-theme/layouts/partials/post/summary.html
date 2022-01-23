@@ -1,0 +1,48 @@
+<article class="summary">
+        <a class="summary__title"
+        href="{{.Permalink}}"
+        data-rel="prefetch"
+        aria-label="{{ i18n "keepReading" }} {{.Title}}"><h2 class="summary__title">{{.Title}}</h2></a>
+        <section style="margin-top: 7px;">
+            <time datetime="{{ .Page.PublishDate.Format "2006-01-02T15:04:05" | safeHTMLAttr }}" >
+                Published on:
+                {{ $months := index .Site.Data (i18n "months") }}
+                {{ $month := index $months (printf "%d" .Page.PublishDate.Month)}}
+                {{ i18n "published" (dict "Day" .Page.PublishDate.Day "Month" $month "Year" .Page.PublishDate.Year) }}
+            </time> | <a class="summary__title" href="{{.Permalink}}" data-rel="prefetch" aria-label="{{ i18n "keepReading" }} {{.Title}}" style="color:#d14 !important;">Permalink</a></section>
+
+            {{ with .Params.Image.Src }}
+        <amp-img class="summary__image"
+            src="{{ . }}"
+            layout="responsive"
+            width="810"
+            height="608"
+            alt="{{ $.Title }}"></amp-img>
+    {{ end }}
+    <!-- <p>{{.Summary}}</p> -->
+    <p>{{.Content}}</p>
+    <div style="margin:50px auto 0px; width:75px;">
+        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+             viewBox="0 0 211 211" style="enable-background:new 0 0 211 211;" xml:space="preserve">
+        <style type="text/css">
+            .st0{fill:none;}
+            .st1{fill:none;stroke:#433D3F;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+        </style>
+        <g>
+            <rect x="-1" y="-1" class="st0" width="212" height="212"/>
+            <g>
+                <g>
+                    <polyline class="st1" points="102.1,149.9 34.6,149.9 34.2,149.9 101.7,82.5 34.2,82.5 101.7,15           "/>
+                    <polyline class="st1" points="115.6,188.2 183.1,120.7 115.6,120.7 167.4,69          "/>
+                    <polyline class="st1" points="89.5,188.2 143.1,134.6 142.6,134.6 75.1,134.6 74.7,134.6 142.2,67.2 74.7,67.2 127.3,14.5          "/>
+                </g>
+            </g>
+        </g>
+        </svg>
+</div>
+<hr style="border-bottom: dashed black 1px; border-top:none;border-left:none;border-right:none; margin:55px 0px;">
+    <!-- <a class="button" role="button"
+        href="{{.Permalink}}"
+        data-rel="prefetch"
+        aria-label="{{ i18n "keepReading" }} {{.Title}}">{{ i18n "keepReading" }}</a> -->
+</article>

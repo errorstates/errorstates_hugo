@@ -17,10 +17,6 @@ tags = ["Roundup",""]
     src = "/images/r008.jpg"
 +++
 
-!["Roundup"](/images/r008.jpg)
-
-# Roundup, September 2020
-
 ## Our Cyborg Collective
 
 https://tinyletter.com/metafoundry/letters/metafoundry-73-our-cyborg-collective-body-ourselves

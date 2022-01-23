@@ -17,8 +17,6 @@ tags = ["email","marketing","variables"]
     src = "/images/010-first-name-cover.jpg"
 +++
 
-# 010 - Dear %%First Name%%
-
 !["Dear %%First Name%%, 1"](/images/010-first-name-2.jpg)
 
 Marketing is all about personalization. Reach the right person, at the right time/place, with the right message. Personalized marketing tends to have better conversion rates. So of course, we do personalized marketing.
@@ -33,7 +31,7 @@ Or MailChimp:
 
 !["Mailchimp"](/images/010-mailchimp.png)
 
-But maybe you copy that as code. Or a developer goes in and makes a modification. Or perhaps you forgot you CMS' convention and used the wrong code. Or %%First Name%% could be pseudocode from a text document that was overlooked and accidently used. 
+But maybe you copy that as code. Or a developer goes in and makes a modification. Or perhaps you forgot you CMS' convention and used the wrong code. Or %%First Name%% could be pseudocode from a text document that was overlooked and accidentally used. 
 
 Whatever the case is, you send out the email and instead of it looking personalized, it looks like this:
 

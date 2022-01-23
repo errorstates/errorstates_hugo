@@ -17,15 +17,13 @@ tags = ["Food","Displays","Menus","Tablet","Kiosk","Hardware","Internet"]
     src = "/images/015/IMG_2900.jpg"
 +++
 
-# 015 - The Building Glitches
-
-![The building glitches](/images/015/IMG_2900.jpg)
+![The building glitches](/images/015/IMG_2900.gif)
 
 Spotted in St. Louis, Missouri. The entire building - a fancy hotel? - was decked out in display panels. An architectural gimmick I've been noticing more and more, especially to ensure a building stands out at night. But these screens go bad just like every other technology. 
 
 I'm fonder of the Empire State Building's approach of projecting colors lights onto the building. Cheaper, more flexible, and it doesn't look like an advertisement for a broken TV if something isn't working right.
 
-![The building glitches](/images/015/IMG_2900.gif)
+
 
 
 

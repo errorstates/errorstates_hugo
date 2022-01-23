@@ -23,12 +23,6 @@ keywords = []
     src = "/images/msg.jpg"
 +++
 
-# 001 - On Paying Your Bills
-
-!["To Restore or Activate Services"](/images/msg.jpg)
-
-## September 9, 2019
-
 Sometimes the problem is that you've simply not paid the bills. 
 
 >"To Restore or Activate Services"...

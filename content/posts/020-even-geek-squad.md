@@ -17,10 +17,6 @@ tags = ["Store","Screen"]
     src = "/images/020/geek-squad-1.jpg"
 +++
 
-# 020 - Even Geek Squad
-
-!["Even Geek Squad"](/images/020/geek-squad-1.jpg)
-
 !["Even Geek Squad"](/images/020/geek-squad-2.jpg)
 
 There's a lot of reasons why a business might put up a screen (or a TV that mirrors a computer). It is eye catching! It can programmatically rotate and display information! It might cost more up front, but switching content out becomes fast and easy and inexpensive after that sunk cost! 

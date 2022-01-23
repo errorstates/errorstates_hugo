@@ -17,10 +17,6 @@ tags = ["TV","Screen","UX","Administration","Finance","Remote Device Management"
     src = "/images/017/ikea-0.jpg"
 +++
 
-# 017 - At Ikea
-
-![Ikea - broken screens](/images/017/ikea-0.jpg)
-
 Spotted at an Ikea in Denver, Colorado. Coincidentally, there seems to be only one IKEA in Colorado. Whenever a number of different screens come together, there will be some inevitable drift towards being out-of-sync at some point. This drift can be caused by internal components (a screen burning in or out), external components (wire connections), technology (misconfigurations), or any other reason. 
 
 ![Ikea - broken screens](/images/017/ikea-1.jpg)

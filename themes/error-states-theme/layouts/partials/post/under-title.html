@@ -1,0 +1,23 @@
+<section>
+        <a class="article"
+        href="{{.Permalink}}"
+        data-rel="prefetch"
+        aria-label="{{ i18n "keepReading" }} {{.Title}}"><h1 class="summary__title">{{.Title}}</h1></a>
+        <section style="margin-top: 7px; margin-bottom:25px;">
+            <time datetime="{{ .Page.PublishDate.Format "2006-01-02T15:04:05" | safeHTMLAttr }}" >
+                Published on:
+                {{ $months := index .Site.Data (i18n "months") }}
+                {{ $month := index $months (printf "%d" .Page.PublishDate.Month)}}
+                {{ i18n "published" (dict "Day" .Page.PublishDate.Day "Month" $month "Year" .Page.PublishDate.Year) }}
+            </time> | <a class="summary__title" href="{{.Permalink}}" data-rel="prefetch" aria-label="{{ i18n "keepReading" }} {{.Title}}" style="color:#d14 !important;">Permalink</a></section>
+
+    {{ with .Params.Image.Src }}
+        <amp-img class="summary__image"
+            src="{{ . }}"
+            layout="responsive"
+            width="810"
+            height="608"
+            alt="{{ $.Title }}"></amp-img>
+    {{ end }}
+
+</section>

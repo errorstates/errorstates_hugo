@@ -1,15 +1,15 @@
 baseURL = "https://errorstates.com"
 languageCode = "en-us"
 title = "Error States"
-theme = "amperage"
+theme = "error-states-theme"
 
 # Number of posts shown per page (default: 10)
-paginate = 10
+paginate = 15
 
 # Menu elements
 [[menu.main]]
     identifier = "home"
-    name = "error states"
+    name = "Error States"
     url = "https://errorstates.com"
     weight = 10
 
@@ -20,7 +20,7 @@ pygmentsUseClasses = true
     tag = "tags"
 
 [params]
-    copyright = "error states" # Name shown on footer copyright
+    copyright = "Error States" # Name shown on footer copyright
     themeColor = "#333" # Theme color displayed on mobile browsers
 
     # Default AMP components for the whole site

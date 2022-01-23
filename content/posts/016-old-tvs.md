@@ -17,10 +17,6 @@ tags = ["TV","Old","Glitch","Aesthetic"]
     src = "/images/016/old-tv.gif"
 +++
 
-# 016 - Old Televisions
-
-![An old TV playing static](/images/016/old-tv.gif)
-
 Spotted in Boulder, Colorado. An old TV sits around, playing static. Glitch aesthetic.
 
 ![An old TV playing static, 1](/images/016/BB5835BD-F6CF-48FE-B70F-A9F6E2457CF3_1_105_c.jpeg)

@@ -17,10 +17,6 @@ tags = ["NYC","Subway","Screens","Data","Hardware","Advertising-Adjacent Hardwar
     src = "/images/008-IMG_0832.jpg"
 +++
 
-# 008 - The Beta Subways Experience
-
-!["Image Alt Text"](/images/008-IMG_0832.jpg)
-
 !["Image Alt Text"](/images/008-IMG_0854.jpg)
 
 !["Image Alt Text"](/images/008-IMG_0854-detail.jpg)
