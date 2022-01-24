@@ -1,6 +1,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>https://errorstates.com/posts/026-flight-errors-1/</loc>
+        <lastmod>2022-01-23T18:49:08-06:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/airports/</loc>
+        <lastmod>2022-01-23T18:49:08-06:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/broken/</loc>
+        <lastmod>2022-01-23T18:49:08-06:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/error/</loc>
+        <lastmod>2022-01-23T18:49:08-06:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/</loc>
+        <lastmod>2022-01-23T18:49:08-06:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/posts/</loc>
+        <lastmod>2022-01-23T18:49:08-06:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/screens/</loc>
+        <lastmod>2022-01-23T18:49:08-06:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://errorstates.com/tags/</loc>
+        <lastmod>2022-01-23T18:49:08-06:00</lastmod>
+    </url>
+    
+    <url>
         <loc>https://errorstates.com/posts/025-bad-ads/</loc>
         <lastmod>2021-09-05T18:48:42-06:00</lastmod>
     </url>
@@ -17,21 +57,6 @@
     
     <url>
         <loc>https://errorstates.com/tags/consumer-engagement/</loc>
-        <lastmod>2021-09-05T18:48:42-06:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/</loc>
-        <lastmod>2021-09-05T18:48:42-06:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/posts/</loc>
-        <lastmod>2021-09-05T18:48:42-06:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/tags/</loc>
         <lastmod>2021-09-05T18:48:42-06:00</lastmod>
     </url>
     
@@ -516,11 +541,6 @@
     </url>
     
     <url>
-        <loc>https://errorstates.com/tags/screens/</loc>
-        <lastmod>2020-05-03T09:47:27-04:00</lastmod>
-    </url>
-    
-    <url>
         <loc>https://errorstates.com/tags/subway/</loc>
         <lastmod>2020-05-03T09:47:27-04:00</lastmod>
     </url>
@@ -637,11 +657,6 @@
     
     <url>
         <loc>https://errorstates.com/posts/003-elevator-out-of-service/</loc>
-        <lastmod>2019-12-15T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>https://errorstates.com/tags/broken/</loc>
         <lastmod>2019-12-15T00:00:00+00:00</lastmod>
     </url>
     

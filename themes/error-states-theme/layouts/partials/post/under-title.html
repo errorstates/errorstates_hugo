@@ -5,7 +5,6 @@
         aria-label="{{ i18n "keepReading" }} {{.Title}}"><h1 class="summary__title">{{.Title}}</h1></a>
         <section style="margin-top: 7px; margin-bottom:25px;">
             <time datetime="{{ .Page.PublishDate.Format "2006-01-02T15:04:05" | safeHTMLAttr }}" >
-                Published on:
                 {{ $months := index .Site.Data (i18n "months") }}
                 {{ $month := index $months (printf "%d" .Page.PublishDate.Month)}}
                 {{ i18n "published" (dict "Day" .Page.PublishDate.Day "Month" $month "Year" .Page.PublishDate.Year) }}
